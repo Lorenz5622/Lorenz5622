@@ -13,17 +13,15 @@ title = data["slug"]
 link = data["link"]
 
 
-# 更新 README.md
-readme_path = os.path.join(os.getcwd(), "README.md")
-with open(readme_path, "r") as f:
+content = ""
+
+with open('backup.md', 'r') as f:
     content = f.read()
+content = content.replace("[[1]]",title)
+content = content.replace("[[2]]",link)
+# print(content)
+    # f.write(content)
+with open('README.md', 'w') as f:
+    f.write(content)
 
-new_content = re.sub(
-    r'<!-- LEETCODE_DAILY_START -->.*<!-- LEETCODE_DAILY_END -->',
-    f'<!-- LEETCODE_DAILY_START -->\n📖 **Today\'s Question:** [{title}]({link})\n<!-- LEETCODE_DAILY_END -->',
-    content,
-    flags=re.DOTALL
-)
-
-with open(readme_path, "w") as f:
-    f.write(new_content)
+os.system("sh ./update_readme.sh")
