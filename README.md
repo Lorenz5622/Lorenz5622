@@ -11,7 +11,7 @@
   My current research focus is on cloud computing, specificly multimodal MoE inference and workload scheduling. 
 </p>
 <p>
-  [![My Skills](https://skillicons.dev/icons?i=cpp,python,java)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,java)](https://skillicons.dev)
 </p>
 
 
