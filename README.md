@@ -25,3 +25,8 @@
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,&theme=light)](https://skillicons.dev)
 
 
+### 🧩 LeetCode Daily Problem
+
+<!-- LEETCODE_DAILY_START -->
+📖 **Today's Question:** [Loading...](https://leetcode.com)
+<!-- LEETCODE_DAILY_END -->
