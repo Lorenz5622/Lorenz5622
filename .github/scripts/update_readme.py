@@ -15,7 +15,7 @@ link = data["link"]
 
 content = ""
 
-with open('backup.md', 'r') as f:
+with open('moban.md', 'r') as f:
     content = f.read()
 content = content.replace("[[1]]",title)
 content = content.replace("[[2]]",link)
