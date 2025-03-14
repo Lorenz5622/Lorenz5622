@@ -26,8 +26,9 @@
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,&theme=light)](https://skillicons.dev)
 
 
-### 🧩 LeetCode Daily Problem
+### 🧩 Help me with my daily homework, plz
 
 <!-- LEETCODE_DAILY_START -->
-📖 **Today's Question:** Maximum Candies Allocated to K Children : https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
+📖 **Today's Question:** 
+Maximum Candies Allocated to K Children : https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
 <!-- LEETCODE_DAILY_END -->
