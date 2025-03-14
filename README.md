@@ -10,6 +10,10 @@
 <p>
   My current research focus is on cloud computing, specificly multimodal MoE inference and workload scheduling. 
 </p>
+- 🔭 I’m currently focusing on cloud computing, especially multimodal MoE inference and workload scheduling
+- 💬 Ask me about **C++ and Python**
+- 📫 How to reach me: [@Lorenz](https://lorenz5622@gmail.com) via gmail
+- 🌀 Motto: The butterfly does not intend to trigger a tornado; it simply has no choice but to flap its wings.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenz5622&layout=compact&theme=light)
 
