@@ -1,4 +1,4 @@
-✌️56## Hi there ✌️
+✌️Hi there ✌️
 <p>Welcome to my page! </br> I'm Lorenz, a postgraduate student (<del>struggling for a degree, bro</del>) in BIT, currently living in Beijing, China. This name Lorenz is in memory of the great meteorologist Lorenz, who has discovered the Butterfly Effect.
 
 <p>
