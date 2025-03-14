@@ -11,6 +11,7 @@
   My current research focus is on cloud computing, specificly multimodal MoE inference and workload scheduling. 
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenz5622&layout=compact&theme=tokyonight)
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,&theme=light)](https://skillicons.dev)
 
