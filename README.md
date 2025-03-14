@@ -4,7 +4,7 @@
 <p>
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Lorenz5622&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 </p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenz5622&layout=compact&theme=light)
 
 
 
@@ -18,7 +18,7 @@
 - 🌀 Motto: The butterfly does not intend to trigger a tornado; it simply has no choice but to flap its wings.
   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenz5622&layout=compact&theme=light)
+
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,&theme=light)](https://skillicons.dev)
 
