@@ -2,15 +2,51 @@ import requests
 import os
 import re
 
-LEETCODE_API = "https://leetcode.cn/graphql/"
-DAILY_QUERY = """\n    query CalendarTaskSchedule($days: Int!) {\n  calendarTaskSchedule(days: $days) {\n    contests {\n      id\n      name\n      slug\n      progress\n      link\n      premiumOnly\n    }\n    dailyQuestions {\n      id\n      name\n      slug\n      progress\n      link\n      premiumOnly\n    }\n    studyPlans {\n      id\n      name\n      slug\n      progress\n      link\n      premiumOnly\n    }\n  }\n}\n"""
-# DAILY_QUERY = "\n query CalendarTaskSchedule($days: Int!) {\n calendarTaskSchedule(days: $days) {\n contests {\n id\n name\n slug\n progress\n link\n premiumOnly\n }\n dailyQuestions {\n id\n name\n slug\n progress\n link\n premiumOnly\n }\n studyPlans {\n id\n name\n slug\n progress\n link\n premiumOnly\n }\n }\n}\n ","variables"
-# print(type(DAILY_QUERY))
+LEETCODE_API = "https://leetcode.com/graphql/"
+
+# proxies={
+# 'http': 'http://127.0.0.1:7890',
+# 'https': 'http://127.0.0.1:7890'
+# }
+
+headers = {
+	'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0'
+} 
+query = """
+
+    query questionOfToday {
+  activeDailyCodingChallengeQuestion {
+    date
+    userStatus
+    link
+    question {
+      titleSlug
+      title
+      translatedTitle
+      acRate
+      difficulty
+      freqBar
+      frontendQuestionId: questionFrontendId
+      isFavor
+      paidOnly: isPaidOnly
+      status
+      hasVideoSolution
+      hasSolution
+      topicTags {
+        name
+        id
+        slug
+      }
+    }
+  }
+}
+    """
+
 # 获取每日一题信息
-response = requests.post(LEETCODE_API, json={"query": DAILY_QUERY,"variables":{"days":0},"operationName":"CalendarTaskSchedule"})
-data = response.json()["data"]["calendarTaskSchedule"]["dailyQuestions"][0]
-title = data["slug"]
-link = data["link"]
+response = requests.post(LEETCODE_API,json = {"operationName": "questionOfToday","query":query, "variables":{}})
+data = response.json()["data"]["activeDailyCodingChallengeQuestion"]
+title = data["question"]["title"]
+link = "https://leetcode.com"+data["link"]
 
 
 content = ""
