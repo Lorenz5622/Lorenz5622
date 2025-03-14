@@ -10,7 +10,7 @@ DAILY_QUERY = """\n    query CalendarTaskSchedule($days: Int!) {\n  calendarTask
 response = requests.post(LEETCODE_API, json={"query": DAILY_QUERY,"variables":{"days":0},"operationName":"CalendarTaskSchedule"})
 data = response.json()["data"]["calendarTaskSchedule"]["dailyQuestions"][0]
 title = data["slug"]
-link = f"https://leetcode.com{data['link']}"
+link = data["link"]
 
 
 # 更新 README.md
