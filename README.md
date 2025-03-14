@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C++ and Python**.
   
-- 📫 How to reach me: [@Lorenz](https://lorenz5622@gmail.com) via gmail.
+- 📫 How to reach me: (lorenz5622@gmail.com) via gmail.
   
 - 🌀 Motto: The butterfly does not intend to trigger a tornado; it simply has no choice but to flap its wings.
   
