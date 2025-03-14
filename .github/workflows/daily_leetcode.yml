@@ -8,9 +8,13 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:  # 添加权限声明
+      contents: write  # 允许工作流写入仓库
     steps:
       - uses: actions/checkout@v4
-
+        with:
+          persist-credentials: true  # 必须开启凭证持久化
+          fetch-depth: 0            # 避免 shallow clone 导致推送问题
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
