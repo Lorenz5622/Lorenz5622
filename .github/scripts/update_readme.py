@@ -50,9 +50,12 @@ link = "https://leetcode.com"+data["link"]
 
 
 content = ""
+script_dir = os.path.dirname(os.path.abspath(__file__))
+template_path = os.path.join(script_dir, "moban.md")
 
-with open('./moban.md', 'r') as f:
+with open(template_path, 'r') as f:
     content = f.read()
+	
 content = content.replace("[[1]]",title)
 content = content.replace("[[2]]",link)
 # print(content)
