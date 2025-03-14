@@ -11,8 +11,7 @@
   My current research focus is on cloud computing, specificly multimodal MoE inference and workload scheduling. 
 </p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfix-lab&theme=dark&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,&theme=light)](https://skillicons.dev)
 
 
