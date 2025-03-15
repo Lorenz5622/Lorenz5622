@@ -53,7 +53,7 @@ content = ""
 script_dir = os.path.dirname(os.path.abspath(__file__))
 template_path = os.path.join(script_dir, "moban.md")
 
-with open(template_path, 'r') as f:
+with open("/home/runner/work/Lorenz5622/Lorenz5622/./.github/scripts/moban.md", 'r') as f:
     content = f.read()
 	
 content = content.replace("[[1]]",title)
