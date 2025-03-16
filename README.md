@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-House Robber IV : https://leetcode.com/problems/house-robber-iv/
+Minimum Time to Repair Cars : https://leetcode.com/problems/minimum-time-to-repair-cars/
 <!-- LEETCODE_DAILY_END -->
