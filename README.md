@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Time to Repair Cars : https://leetcode.com/problems/minimum-time-to-repair-cars/
+Divide Array Into Equal Pairs : https://leetcode.com/problems/divide-array-into-equal-pairs/
 <!-- LEETCODE_DAILY_END -->
