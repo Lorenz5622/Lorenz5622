@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Divide Array Into Equal Pairs : https://leetcode.com/problems/divide-array-into-equal-pairs/
+Longest Nice Subarray : https://leetcode.com/problems/longest-nice-subarray/
 <!-- LEETCODE_DAILY_END -->
