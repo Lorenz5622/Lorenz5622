@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Longest Nice Subarray : https://leetcode.com/problems/longest-nice-subarray/
+Minimum Operations to Make Binary Array Elements Equal to One I : https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/
 <!-- LEETCODE_DAILY_END -->
