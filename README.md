@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Operations to Make Binary Array Elements Equal to One I : https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/
+Minimum Cost Walk in Weighted Graph : https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/
 <!-- LEETCODE_DAILY_END -->
