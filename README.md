@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Cost Walk in Weighted Graph : https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/
+Find All Possible Recipes from Given Supplies : https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
 <!-- LEETCODE_DAILY_END -->
