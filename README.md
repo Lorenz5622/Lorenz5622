@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find All Possible Recipes from Given Supplies : https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
+Count the Number of Complete Components : https://leetcode.com/problems/count-the-number-of-complete-components/
 <!-- LEETCODE_DAILY_END -->
