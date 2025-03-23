@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count the Number of Complete Components : https://leetcode.com/problems/count-the-number-of-complete-components/
+Number of Ways to Arrive at Destination : https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
 <!-- LEETCODE_DAILY_END -->
