@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Ways to Arrive at Destination : https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
+Count Days Without Meetings : https://leetcode.com/problems/count-days-without-meetings/
 <!-- LEETCODE_DAILY_END -->
