@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Days Without Meetings : https://leetcode.com/problems/count-days-without-meetings/
+Check if Grid can be Cut into Sections : https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/
 <!-- LEETCODE_DAILY_END -->
