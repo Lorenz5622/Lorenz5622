@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Check if Grid can be Cut into Sections : https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/
+Minimum Operations to Make a Uni-Value Grid : https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 <!-- LEETCODE_DAILY_END -->
