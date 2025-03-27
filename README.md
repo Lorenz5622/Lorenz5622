@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Operations to Make a Uni-Value Grid : https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
+Minimum Index of a Valid Split : https://leetcode.com/problems/minimum-index-of-a-valid-split/
 <!-- LEETCODE_DAILY_END -->
