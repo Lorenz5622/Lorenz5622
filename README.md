@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Index of a Valid Split : https://leetcode.com/problems/minimum-index-of-a-valid-split/
+Maximum Number of Points From Grid Queries : https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/
 <!-- LEETCODE_DAILY_END -->
