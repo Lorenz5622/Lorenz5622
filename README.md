@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Number of Points From Grid Queries : https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/
+Apply Operations to Maximize Score : https://leetcode.com/problems/apply-operations-to-maximize-score/
 <!-- LEETCODE_DAILY_END -->
