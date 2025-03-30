@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Apply Operations to Maximize Score : https://leetcode.com/problems/apply-operations-to-maximize-score/
+Partition Labels : https://leetcode.com/problems/partition-labels/
 <!-- LEETCODE_DAILY_END -->
