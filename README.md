@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Partition Labels : https://leetcode.com/problems/partition-labels/
+Put Marbles in Bags : https://leetcode.com/problems/put-marbles-in-bags/
 <!-- LEETCODE_DAILY_END -->
