@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Put Marbles in Bags : https://leetcode.com/problems/put-marbles-in-bags/
+Solving Questions With Brainpower : https://leetcode.com/problems/solving-questions-with-brainpower/
 <!-- LEETCODE_DAILY_END -->
