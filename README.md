@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Solving Questions With Brainpower : https://leetcode.com/problems/solving-questions-with-brainpower/
+Maximum Value of an Ordered Triplet I : https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/
 <!-- LEETCODE_DAILY_END -->
