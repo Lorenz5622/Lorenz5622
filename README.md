@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Value of an Ordered Triplet II : https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/
+Lowest Common Ancestor of Deepest Leaves : https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
 <!-- LEETCODE_DAILY_END -->
