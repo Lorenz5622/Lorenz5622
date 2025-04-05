@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Lowest Common Ancestor of Deepest Leaves : https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
+Sum of All Subset XOR Totals : https://leetcode.com/problems/sum-of-all-subset-xor-totals/
 <!-- LEETCODE_DAILY_END -->
