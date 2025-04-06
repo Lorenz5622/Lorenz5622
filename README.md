@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Sum of All Subset XOR Totals : https://leetcode.com/problems/sum-of-all-subset-xor-totals/
+Largest Divisible Subset : https://leetcode.com/problems/largest-divisible-subset/
 <!-- LEETCODE_DAILY_END -->
