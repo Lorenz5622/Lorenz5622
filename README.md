@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Largest Divisible Subset : https://leetcode.com/problems/largest-divisible-subset/
+Partition Equal Subset Sum : https://leetcode.com/problems/partition-equal-subset-sum/
 <!-- LEETCODE_DAILY_END -->
