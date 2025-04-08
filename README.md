@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Partition Equal Subset Sum : https://leetcode.com/problems/partition-equal-subset-sum/
+Minimum Number of Operations to Make Elements in Array Distinct : https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/
 <!-- LEETCODE_DAILY_END -->
