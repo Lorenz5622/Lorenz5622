@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Number of Operations to Make Elements in Array Distinct : https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/
+Minimum Operations to Make Array Values Equal to K : https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/
 <!-- LEETCODE_DAILY_END -->
