@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Operations to Make Array Values Equal to K : https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/
+Count the Number of Powerful Integers : https://leetcode.com/problems/count-the-number-of-powerful-integers/
 <!-- LEETCODE_DAILY_END -->
