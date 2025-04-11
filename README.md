@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count the Number of Powerful Integers : https://leetcode.com/problems/count-the-number-of-powerful-integers/
+  Count Symmetric Integers : https://leetcode.com/problems/count-symmetric-integers/
 <!-- LEETCODE_DAILY_END -->
