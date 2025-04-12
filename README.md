@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-  Count Symmetric Integers : https://leetcode.com/problems/count-symmetric-integers/
+Find the Count of Good Integers : https://leetcode.com/problems/find-the-count-of-good-integers/
 <!-- LEETCODE_DAILY_END -->
