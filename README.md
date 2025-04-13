@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Count of Good Integers : https://leetcode.com/problems/find-the-count-of-good-integers/
+Count Good Numbers : https://leetcode.com/problems/count-good-numbers/
 <!-- LEETCODE_DAILY_END -->
