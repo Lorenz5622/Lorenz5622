@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Good Numbers : https://leetcode.com/problems/count-good-numbers/
+Count Good Triplets : https://leetcode.com/problems/count-good-triplets/
 <!-- LEETCODE_DAILY_END -->
