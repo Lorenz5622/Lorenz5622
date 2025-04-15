@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Good Triplets : https://leetcode.com/problems/count-good-triplets/
+Count Good Triplets in an Array : https://leetcode.com/problems/count-good-triplets-in-an-array/
 <!-- LEETCODE_DAILY_END -->
