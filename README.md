@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count the Number of Good Subarrays : https://leetcode.com/problems/count-the-number-of-good-subarrays/
+Count Equal and Divisible Pairs in an Array : https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 <!-- LEETCODE_DAILY_END -->
