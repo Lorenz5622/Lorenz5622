@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Equal and Divisible Pairs in an Array : https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
+Count and Say : https://leetcode.com/problems/count-and-say/
 <!-- LEETCODE_DAILY_END -->
