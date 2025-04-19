@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count and Say : https://leetcode.com/problems/count-and-say/
+Count the Number of Fair Pairs : https://leetcode.com/problems/count-the-number-of-fair-pairs/
 <!-- LEETCODE_DAILY_END -->
