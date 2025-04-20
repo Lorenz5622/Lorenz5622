@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count the Number of Fair Pairs : https://leetcode.com/problems/count-the-number-of-fair-pairs/
+Rabbits in Forest : https://leetcode.com/problems/rabbits-in-forest/
 <!-- LEETCODE_DAILY_END -->
