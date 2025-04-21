@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Rabbits in Forest : https://leetcode.com/problems/rabbits-in-forest/
+Count the Hidden Sequences : https://leetcode.com/problems/count-the-hidden-sequences/
 <!-- LEETCODE_DAILY_END -->
