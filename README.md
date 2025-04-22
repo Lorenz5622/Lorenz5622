@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count the Hidden Sequences : https://leetcode.com/problems/count-the-hidden-sequences/
+Count the Number of Ideal Arrays : https://leetcode.com/problems/count-the-number-of-ideal-arrays/
 <!-- LEETCODE_DAILY_END -->
