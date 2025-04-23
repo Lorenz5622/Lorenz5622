@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count the Number of Ideal Arrays : https://leetcode.com/problems/count-the-number-of-ideal-arrays/
+Count Largest Group : https://leetcode.com/problems/count-largest-group/
 <!-- LEETCODE_DAILY_END -->
