@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Largest Group : https://leetcode.com/problems/count-largest-group/
+Count Complete Subarrays in an Array : https://leetcode.com/problems/count-complete-subarrays-in-an-array/
 <!-- LEETCODE_DAILY_END -->
