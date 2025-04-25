@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Complete Subarrays in an Array : https://leetcode.com/problems/count-complete-subarrays-in-an-array/
+Count of Interesting Subarrays : https://leetcode.com/problems/count-of-interesting-subarrays/
 <!-- LEETCODE_DAILY_END -->
