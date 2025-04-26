@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count of Interesting Subarrays : https://leetcode.com/problems/count-of-interesting-subarrays/
+Count Subarrays With Fixed Bounds : https://leetcode.com/problems/count-subarrays-with-fixed-bounds/
 <!-- LEETCODE_DAILY_END -->
