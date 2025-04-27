@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Subarrays With Fixed Bounds : https://leetcode.com/problems/count-subarrays-with-fixed-bounds/
+Count Subarrays of Length Three With a Condition : https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/
 <!-- LEETCODE_DAILY_END -->
