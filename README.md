@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Subarrays of Length Three With a Condition : https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/
+Count Subarrays With Score Less Than K : https://leetcode.com/problems/count-subarrays-with-score-less-than-k/
 <!-- LEETCODE_DAILY_END -->
