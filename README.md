@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Subarrays With Score Less Than K : https://leetcode.com/problems/count-subarrays-with-score-less-than-k/
+Count Subarrays Where Max Element Appears at Least K Times : https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/
 <!-- LEETCODE_DAILY_END -->
