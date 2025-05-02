@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Number of Tasks You Can Assign : https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/
+Push Dominoes : https://leetcode.com/problems/push-dominoes/
 <!-- LEETCODE_DAILY_END -->
