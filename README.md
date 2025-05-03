@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Push Dominoes : https://leetcode.com/problems/push-dominoes/
+Minimum Domino Rotations For Equal Row : https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/
 <!-- LEETCODE_DAILY_END -->
