@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Domino Rotations For Equal Row : https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/
+Number of Equivalent Domino Pairs : https://leetcode.com/problems/number-of-equivalent-domino-pairs/
 <!-- LEETCODE_DAILY_END -->
