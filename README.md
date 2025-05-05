@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Equivalent Domino Pairs : https://leetcode.com/problems/number-of-equivalent-domino-pairs/
+Domino and Tromino Tiling : https://leetcode.com/problems/domino-and-tromino-tiling/
 <!-- LEETCODE_DAILY_END -->
