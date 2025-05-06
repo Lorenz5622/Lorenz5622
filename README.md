@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Domino and Tromino Tiling : https://leetcode.com/problems/domino-and-tromino-tiling/
+Build Array from Permutation : https://leetcode.com/problems/build-array-from-permutation/
 <!-- LEETCODE_DAILY_END -->
