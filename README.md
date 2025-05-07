@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Build Array from Permutation : https://leetcode.com/problems/build-array-from-permutation/
+Find Minimum Time to Reach Last Room I : https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/
 <!-- LEETCODE_DAILY_END -->
