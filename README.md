@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find Minimum Time to Reach Last Room I : https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/
+Find Minimum Time to Reach Last Room II : https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/
 <!-- LEETCODE_DAILY_END -->
