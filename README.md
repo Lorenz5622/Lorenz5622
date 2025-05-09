@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find Minimum Time to Reach Last Room II : https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/
+Count Number of Balanced Permutations : https://leetcode.com/problems/count-number-of-balanced-permutations/
 <!-- LEETCODE_DAILY_END -->
