@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Number of Balanced Permutations : https://leetcode.com/problems/count-number-of-balanced-permutations/
+Minimum Equal Sum of Two Arrays After Replacing Zeros : https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/
 <!-- LEETCODE_DAILY_END -->
