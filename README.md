@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Equal Sum of Two Arrays After Replacing Zeros : https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/
+Three Consecutive Odds : https://leetcode.com/problems/three-consecutive-odds/
 <!-- LEETCODE_DAILY_END -->
