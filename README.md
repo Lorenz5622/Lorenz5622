@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Three Consecutive Odds : https://leetcode.com/problems/three-consecutive-odds/
+Finding 3-Digit Even Numbers : https://leetcode.com/problems/finding-3-digit-even-numbers/
 <!-- LEETCODE_DAILY_END -->
