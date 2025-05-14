@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Total Characters in String After Transformations I : https://leetcode.com/problems/total-characters-in-string-after-transformations-i/
+Total Characters in String After Transformations II : https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/
 <!-- LEETCODE_DAILY_END -->
