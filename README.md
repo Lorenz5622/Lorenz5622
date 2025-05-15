@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Total Characters in String After Transformations II : https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/
+Longest Unequal Adjacent Groups Subsequence I : https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/
 <!-- LEETCODE_DAILY_END -->
