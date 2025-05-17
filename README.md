@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Longest Unequal Adjacent Groups Subsequence II : https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/
+Sort Colors : https://leetcode.com/problems/sort-colors/
 <!-- LEETCODE_DAILY_END -->
