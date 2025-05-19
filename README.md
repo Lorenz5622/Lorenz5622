@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Painting a Grid With Three Different Colors : https://leetcode.com/problems/painting-a-grid-with-three-different-colors/
+Type of Triangle : https://leetcode.com/problems/type-of-triangle/
 <!-- LEETCODE_DAILY_END -->
