@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Type of Triangle : https://leetcode.com/problems/type-of-triangle/
+Zero Array Transformation I : https://leetcode.com/problems/zero-array-transformation-i/
 <!-- LEETCODE_DAILY_END -->
