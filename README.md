@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Zero Array Transformation I : https://leetcode.com/problems/zero-array-transformation-i/
+Set Matrix Zeroes : https://leetcode.com/problems/set-matrix-zeroes/
 <!-- LEETCODE_DAILY_END -->
