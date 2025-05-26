@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Longest Palindrome by Concatenating Two Letter Words : https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/
+Largest Color Value in a Directed Graph : https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
 <!-- LEETCODE_DAILY_END -->
