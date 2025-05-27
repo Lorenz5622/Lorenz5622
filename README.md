@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Largest Color Value in a Directed Graph : https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
+Divisible and Non-divisible Sums Difference : https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
 <!-- LEETCODE_DAILY_END -->
