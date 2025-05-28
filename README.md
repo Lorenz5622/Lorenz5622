@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Divisible and Non-divisible Sums Difference : https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
+Maximize the Number of Target Nodes After Connecting Trees I : https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/
 <!-- LEETCODE_DAILY_END -->
