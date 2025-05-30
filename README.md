@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximize the Number of Target Nodes After Connecting Trees II : https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/
+Find Closest Node to Given Two Nodes : https://leetcode.com/problems/find-closest-node-to-given-two-nodes/
 <!-- LEETCODE_DAILY_END -->
