@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find Closest Node to Given Two Nodes : https://leetcode.com/problems/find-closest-node-to-given-two-nodes/
+Snakes and Ladders : https://leetcode.com/problems/snakes-and-ladders/
 <!-- LEETCODE_DAILY_END -->
