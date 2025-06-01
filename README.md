@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Snakes and Ladders : https://leetcode.com/problems/snakes-and-ladders/
+Distribute Candies Among Children II : https://leetcode.com/problems/distribute-candies-among-children-ii/
 <!-- LEETCODE_DAILY_END -->
