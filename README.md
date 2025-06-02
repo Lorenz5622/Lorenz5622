@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Distribute Candies Among Children II : https://leetcode.com/problems/distribute-candies-among-children-ii/
+Candy : https://leetcode.com/problems/candy/
 <!-- LEETCODE_DAILY_END -->
