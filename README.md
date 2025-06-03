@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Candy : https://leetcode.com/problems/candy/
+Maximum Candies You Can Get from Boxes : https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
 <!-- LEETCODE_DAILY_END -->
