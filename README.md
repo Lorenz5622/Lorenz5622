@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Candies You Can Get from Boxes : https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
+Find the Lexicographically Largest String From the Box I : https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/
 <!-- LEETCODE_DAILY_END -->
