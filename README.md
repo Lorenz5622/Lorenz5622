@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Lexicographically Largest String From the Box I : https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/
+Lexicographically Smallest Equivalent String : https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
 <!-- LEETCODE_DAILY_END -->
