@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Lexicographically Smallest Equivalent String : https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
+Using a Robot to Print the Lexicographically Smallest String : https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/
 <!-- LEETCODE_DAILY_END -->
