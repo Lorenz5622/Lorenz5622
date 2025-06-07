@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Using a Robot to Print the Lexicographically Smallest String : https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/
+Lexicographically Minimum String After Removing Stars : https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/
 <!-- LEETCODE_DAILY_END -->
