@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Lexicographically Minimum String After Removing Stars : https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/
+Lexicographical Numbers : https://leetcode.com/problems/lexicographical-numbers/
 <!-- LEETCODE_DAILY_END -->
