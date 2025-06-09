@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Lexicographical Numbers : https://leetcode.com/problems/lexicographical-numbers/
+K-th Smallest in Lexicographical Order : https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/
 <!-- LEETCODE_DAILY_END -->
