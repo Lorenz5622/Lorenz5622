@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-K-th Smallest in Lexicographical Order : https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/
+Maximum Difference Between Even and Odd Frequency I : https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/
 <!-- LEETCODE_DAILY_END -->
