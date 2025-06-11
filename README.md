@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Difference Between Even and Odd Frequency I : https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/
+Maximum Difference Between Even and Odd Frequency II : https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/
 <!-- LEETCODE_DAILY_END -->
