@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Difference Between Even and Odd Frequency II : https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/
+Maximum Difference Between Adjacent Elements in a Circular Array : https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/
 <!-- LEETCODE_DAILY_END -->
