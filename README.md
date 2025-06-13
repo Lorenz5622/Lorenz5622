@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Difference Between Adjacent Elements in a Circular Array : https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/
+Minimize the Maximum Difference of Pairs : https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/
 <!-- LEETCODE_DAILY_END -->
