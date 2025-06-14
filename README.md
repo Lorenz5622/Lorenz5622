@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimize the Maximum Difference of Pairs : https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/
+Maximum Difference by Remapping a Digit : https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/
 <!-- LEETCODE_DAILY_END -->
