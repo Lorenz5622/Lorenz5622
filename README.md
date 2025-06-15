@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Difference by Remapping a Digit : https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/
+Max Difference You Can Get From Changing an Integer : https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/
 <!-- LEETCODE_DAILY_END -->
