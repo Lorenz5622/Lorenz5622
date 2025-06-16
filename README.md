@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Max Difference You Can Get From Changing an Integer : https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/
+Maximum Difference Between Increasing Elements : https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 <!-- LEETCODE_DAILY_END -->
