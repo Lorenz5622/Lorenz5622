@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Difference Between Increasing Elements : https://leetcode.com/problems/maximum-difference-between-increasing-elements/
+Count the Number of Arrays with K Matching Adjacent Elements : https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/
 <!-- LEETCODE_DAILY_END -->
