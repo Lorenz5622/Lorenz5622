@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count the Number of Arrays with K Matching Adjacent Elements : https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/
+Divide Array Into Arrays With Max Difference : https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/
 <!-- LEETCODE_DAILY_END -->
