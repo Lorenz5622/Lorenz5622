@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Divide Array Into Arrays With Max Difference : https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/
+Partition Array Such That Maximum Difference Is K : https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/
 <!-- LEETCODE_DAILY_END -->
