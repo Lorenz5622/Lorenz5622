@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Partition Array Such That Maximum Difference Is K : https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/
+Maximum Manhattan Distance After K Changes : https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/
 <!-- LEETCODE_DAILY_END -->
