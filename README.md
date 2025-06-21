@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Manhattan Distance After K Changes : https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/
+Minimum Deletions to Make String K-Special : https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/
 <!-- LEETCODE_DAILY_END -->
