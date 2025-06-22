@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Deletions to Make String K-Special : https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/
+Divide a String Into Groups of Size k : https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/
 <!-- LEETCODE_DAILY_END -->
