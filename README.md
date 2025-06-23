@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Divide a String Into Groups of Size k : https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/
+Sum of k-Mirror Numbers : https://leetcode.com/problems/sum-of-k-mirror-numbers/
 <!-- LEETCODE_DAILY_END -->
