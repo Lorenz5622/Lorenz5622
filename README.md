@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Sum of k-Mirror Numbers : https://leetcode.com/problems/sum-of-k-mirror-numbers/
+Find All K-Distant Indices in an Array : https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
 <!-- LEETCODE_DAILY_END -->
