@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find All K-Distant Indices in an Array : https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
+Kth Smallest Product of Two Sorted Arrays : https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/
 <!-- LEETCODE_DAILY_END -->
