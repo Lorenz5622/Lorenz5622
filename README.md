@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Kth Smallest Product of Two Sorted Arrays : https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/
+Longest Binary Subsequence Less Than or Equal to K : https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
 <!-- LEETCODE_DAILY_END -->
