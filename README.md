@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Longest Binary Subsequence Less Than or Equal to K : https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
+Longest Subsequence Repeated k Times : https://leetcode.com/problems/longest-subsequence-repeated-k-times/
 <!-- LEETCODE_DAILY_END -->
