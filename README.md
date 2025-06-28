@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Longest Subsequence Repeated k Times : https://leetcode.com/problems/longest-subsequence-repeated-k-times/
+Find Subsequence of Length K With the Largest Sum : https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/
 <!-- LEETCODE_DAILY_END -->
