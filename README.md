@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find Subsequence of Length K With the Largest Sum : https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/
+Number of Subsequences That Satisfy the Given Sum Condition : https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 <!-- LEETCODE_DAILY_END -->
