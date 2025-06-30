@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Subsequences That Satisfy the Given Sum Condition : https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
+Longest Harmonious Subsequence : https://leetcode.com/problems/longest-harmonious-subsequence/
 <!-- LEETCODE_DAILY_END -->
