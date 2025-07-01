@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Longest Harmonious Subsequence : https://leetcode.com/problems/longest-harmonious-subsequence/
+Find the Original Typed String I : https://leetcode.com/problems/find-the-original-typed-string-i/
 <!-- LEETCODE_DAILY_END -->
