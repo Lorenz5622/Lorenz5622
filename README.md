@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Original Typed String I : https://leetcode.com/problems/find-the-original-typed-string-i/
+Find the Original Typed String II : https://leetcode.com/problems/find-the-original-typed-string-ii/
 <!-- LEETCODE_DAILY_END -->
