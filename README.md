@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Original Typed String II : https://leetcode.com/problems/find-the-original-typed-string-ii/
+Find the K-th Character in String Game I : https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/
 <!-- LEETCODE_DAILY_END -->
