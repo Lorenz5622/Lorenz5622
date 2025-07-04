@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the K-th Character in String Game I : https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/
+Find the K-th Character in String Game II : https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/
 <!-- LEETCODE_DAILY_END -->
