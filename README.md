@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the K-th Character in String Game II : https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/
+Find Lucky Integer in an Array : https://leetcode.com/problems/find-lucky-integer-in-an-array/
 <!-- LEETCODE_DAILY_END -->
