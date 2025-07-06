@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find Lucky Integer in an Array : https://leetcode.com/problems/find-lucky-integer-in-an-array/
+Finding Pairs With a Certain Sum : https://leetcode.com/problems/finding-pairs-with-a-certain-sum/
 <!-- LEETCODE_DAILY_END -->
