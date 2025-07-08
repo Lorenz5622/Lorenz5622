@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Number of Events That Can Be Attended : https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
+Maximum Number of Events That Can Be Attended II : https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/
 <!-- LEETCODE_DAILY_END -->
