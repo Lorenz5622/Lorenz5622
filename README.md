@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Number of Events That Can Be Attended II : https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/
+Reschedule Meetings for Maximum Free Time I : https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/
 <!-- LEETCODE_DAILY_END -->
