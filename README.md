@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Reschedule Meetings for Maximum Free Time I : https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/
+Reschedule Meetings for Maximum Free Time II : https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/
 <!-- LEETCODE_DAILY_END -->
