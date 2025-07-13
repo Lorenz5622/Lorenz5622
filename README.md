@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-The Earliest and Latest Rounds Where Players Compete : https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/
+Maximum Matching of Players With Trainers : https://leetcode.com/problems/maximum-matching-of-players-with-trainers/
 <!-- LEETCODE_DAILY_END -->
