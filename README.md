@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Matching of Players With Trainers : https://leetcode.com/problems/maximum-matching-of-players-with-trainers/
+Convert Binary Number in a Linked List to Integer : https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 <!-- LEETCODE_DAILY_END -->
