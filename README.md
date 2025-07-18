@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Maximum Length of Valid Subsequence II : https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/
+Minimum Difference in Sums After Removal of Elements : https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/
 <!-- LEETCODE_DAILY_END -->
