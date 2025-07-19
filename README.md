@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Difference in Sums After Removal of Elements : https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/
+Remove Sub-Folders from the Filesystem : https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
 <!-- LEETCODE_DAILY_END -->
