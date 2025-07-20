@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Remove Sub-Folders from the Filesystem : https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
+Delete Duplicate Folders in System : https://leetcode.com/problems/delete-duplicate-folders-in-system/
 <!-- LEETCODE_DAILY_END -->
