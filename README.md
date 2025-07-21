@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Delete Duplicate Folders in System : https://leetcode.com/problems/delete-duplicate-folders-in-system/
+Delete Characters to Make Fancy String : https://leetcode.com/problems/delete-characters-to-make-fancy-string/
 <!-- LEETCODE_DAILY_END -->
