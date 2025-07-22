@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Delete Characters to Make Fancy String : https://leetcode.com/problems/delete-characters-to-make-fancy-string/
+Maximum Erasure Value : https://leetcode.com/problems/maximum-erasure-value/
 <!-- LEETCODE_DAILY_END -->
