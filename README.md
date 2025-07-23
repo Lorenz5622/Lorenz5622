@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Erasure Value : https://leetcode.com/problems/maximum-erasure-value/
+Maximum Score From Removing Substrings : https://leetcode.com/problems/maximum-score-from-removing-substrings/
 <!-- LEETCODE_DAILY_END -->
