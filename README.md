@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Score From Removing Substrings : https://leetcode.com/problems/maximum-score-from-removing-substrings/
+Minimum Score After Removals on a Tree : https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/
 <!-- LEETCODE_DAILY_END -->
