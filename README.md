@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Score After Removals on a Tree : https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/
+Maximum Unique Subarray Sum After Deletion : https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/
 <!-- LEETCODE_DAILY_END -->
