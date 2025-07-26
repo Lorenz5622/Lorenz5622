@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Unique Subarray Sum After Deletion : https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/
+Maximize Subarrays After Removing One Conflicting Pair : https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/
 <!-- LEETCODE_DAILY_END -->
