@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximize Subarrays After Removing One Conflicting Pair : https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/
+Count Hills and Valleys in an Array : https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 <!-- LEETCODE_DAILY_END -->
