@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Number of Maximum Bitwise-OR Subsets : https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/
+Smallest Subarrays With Maximum Bitwise OR : https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/
 <!-- LEETCODE_DAILY_END -->
