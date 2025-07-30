@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Smallest Subarrays With Maximum Bitwise OR : https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/
+Longest Subarray With Maximum Bitwise AND : https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/
 <!-- LEETCODE_DAILY_END -->
