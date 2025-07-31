@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Longest Subarray With Maximum Bitwise AND : https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/
+Bitwise ORs of Subarrays : https://leetcode.com/problems/bitwise-ors-of-subarrays/
 <!-- LEETCODE_DAILY_END -->
