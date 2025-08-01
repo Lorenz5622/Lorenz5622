@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Bitwise ORs of Subarrays : https://leetcode.com/problems/bitwise-ors-of-subarrays/
+Pascal's Triangle : https://leetcode.com/problems/pascals-triangle/
 <!-- LEETCODE_DAILY_END -->
