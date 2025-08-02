@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Pascal's Triangle : https://leetcode.com/problems/pascals-triangle/
+Rearranging Fruits : https://leetcode.com/problems/rearranging-fruits/
 <!-- LEETCODE_DAILY_END -->
