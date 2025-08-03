@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Rearranging Fruits : https://leetcode.com/problems/rearranging-fruits/
+Maximum Fruits Harvested After at Most K Steps : https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/
 <!-- LEETCODE_DAILY_END -->
