@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Fruits Harvested After at Most K Steps : https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/
+Fruit Into Baskets : https://leetcode.com/problems/fruit-into-baskets/
 <!-- LEETCODE_DAILY_END -->
