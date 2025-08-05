@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Fruit Into Baskets : https://leetcode.com/problems/fruit-into-baskets/
+Fruits Into Baskets II : https://leetcode.com/problems/fruits-into-baskets-ii/
 <!-- LEETCODE_DAILY_END -->
