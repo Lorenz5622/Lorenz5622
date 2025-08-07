@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Fruits Into Baskets III : https://leetcode.com/problems/fruits-into-baskets-iii/
+Find the Maximum Number of Fruits Collected : https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/
 <!-- LEETCODE_DAILY_END -->
