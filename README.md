@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Maximum Number of Fruits Collected : https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/
+Soup Servings : https://leetcode.com/problems/soup-servings/
 <!-- LEETCODE_DAILY_END -->
