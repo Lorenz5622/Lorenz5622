@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Soup Servings : https://leetcode.com/problems/soup-servings/
+Power of Two : https://leetcode.com/problems/power-of-two/
 <!-- LEETCODE_DAILY_END -->
