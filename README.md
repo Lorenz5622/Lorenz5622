@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Power of Two : https://leetcode.com/problems/power-of-two/
+Reordered Power of 2 : https://leetcode.com/problems/reordered-power-of-2/
 <!-- LEETCODE_DAILY_END -->
