@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Reordered Power of 2 : https://leetcode.com/problems/reordered-power-of-2/
+Range Product Queries of Powers : https://leetcode.com/problems/range-product-queries-of-powers/
 <!-- LEETCODE_DAILY_END -->
