@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Range Product Queries of Powers : https://leetcode.com/problems/range-product-queries-of-powers/
+Ways to Express an Integer as Sum of Powers : https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/
 <!-- LEETCODE_DAILY_END -->
