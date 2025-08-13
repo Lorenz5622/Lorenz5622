@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Ways to Express an Integer as Sum of Powers : https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/
+Power of Three : https://leetcode.com/problems/power-of-three/
 <!-- LEETCODE_DAILY_END -->
