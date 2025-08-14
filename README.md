@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Power of Three : https://leetcode.com/problems/power-of-three/
+Largest 3-Same-Digit Number in String : https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 <!-- LEETCODE_DAILY_END -->
