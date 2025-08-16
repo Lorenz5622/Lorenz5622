@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Power of Four : https://leetcode.com/problems/power-of-four/
+Maximum 69 Number : https://leetcode.com/problems/maximum-69-number/
 <!-- LEETCODE_DAILY_END -->
