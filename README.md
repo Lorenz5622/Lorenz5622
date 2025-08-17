@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum 69 Number : https://leetcode.com/problems/maximum-69-number/
+New 21 Game : https://leetcode.com/problems/new-21-game/
 <!-- LEETCODE_DAILY_END -->
