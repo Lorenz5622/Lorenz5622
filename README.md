@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-New 21 Game : https://leetcode.com/problems/new-21-game/
+24 Game : https://leetcode.com/problems/24-game/
 <!-- LEETCODE_DAILY_END -->
