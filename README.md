@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-24 Game : https://leetcode.com/problems/24-game/
+Number of Zero-Filled Subarrays : https://leetcode.com/problems/number-of-zero-filled-subarrays/
 <!-- LEETCODE_DAILY_END -->
