@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Zero-Filled Subarrays : https://leetcode.com/problems/number-of-zero-filled-subarrays/
+Count Square Submatrices with All Ones : https://leetcode.com/problems/count-square-submatrices-with-all-ones/
 <!-- LEETCODE_DAILY_END -->
