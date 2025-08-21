@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Square Submatrices with All Ones : https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+Count Submatrices With All Ones : https://leetcode.com/problems/count-submatrices-with-all-ones/
 <!-- LEETCODE_DAILY_END -->
