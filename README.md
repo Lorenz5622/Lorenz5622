@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Submatrices With All Ones : https://leetcode.com/problems/count-submatrices-with-all-ones/
+Find the Minimum Area to Cover All Ones I : https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/
 <!-- LEETCODE_DAILY_END -->
