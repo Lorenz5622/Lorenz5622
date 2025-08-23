@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Minimum Area to Cover All Ones I : https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/
+Find the Minimum Area to Cover All Ones II : https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/
 <!-- LEETCODE_DAILY_END -->
