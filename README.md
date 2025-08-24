@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Minimum Area to Cover All Ones II : https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/
+Longest Subarray of 1's After Deleting One Element : https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
 <!-- LEETCODE_DAILY_END -->
