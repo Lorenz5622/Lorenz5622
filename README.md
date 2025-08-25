@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Longest Subarray of 1's After Deleting One Element : https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+Diagonal Traverse : https://leetcode.com/problems/diagonal-traverse/
 <!-- LEETCODE_DAILY_END -->
