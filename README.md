@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Diagonal Traverse : https://leetcode.com/problems/diagonal-traverse/
+Maximum Area of Longest Diagonal Rectangle : https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/
 <!-- LEETCODE_DAILY_END -->
