@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Area of Longest Diagonal Rectangle : https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/
+Length of Longest V-Shaped Diagonal Segment : https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/
 <!-- LEETCODE_DAILY_END -->
