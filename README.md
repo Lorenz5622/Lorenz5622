@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Valid Sudoku : https://leetcode.com/problems/valid-sudoku/
+Sudoku Solver : https://leetcode.com/problems/sudoku-solver/
 <!-- LEETCODE_DAILY_END -->
