@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Sudoku Solver : https://leetcode.com/problems/sudoku-solver/
+Maximum Average Pass Ratio : https://leetcode.com/problems/maximum-average-pass-ratio/
 <!-- LEETCODE_DAILY_END -->
