@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Average Pass Ratio : https://leetcode.com/problems/maximum-average-pass-ratio/
+Find the Number of Ways to Place People I : https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/
 <!-- LEETCODE_DAILY_END -->
