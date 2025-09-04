@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Number of Ways to Place People II : https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/
+Find Closest Person : https://leetcode.com/problems/find-closest-person/
 <!-- LEETCODE_DAILY_END -->
