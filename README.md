@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Operations to Make the Integer Zero : https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/
+Minimum Operations to Make Array Elements Zero : https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/
 <!-- LEETCODE_DAILY_END -->
