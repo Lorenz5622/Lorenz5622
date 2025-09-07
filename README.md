@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Operations to Make Array Elements Zero : https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/
+Find N Unique Integers Sum up to Zero : https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
 <!-- LEETCODE_DAILY_END -->
