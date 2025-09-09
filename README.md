@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Convert Integer to the Sum of Two No-Zero Integers : https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/
+Number of People Aware of a Secret : https://leetcode.com/problems/number-of-people-aware-of-a-secret/
 <!-- LEETCODE_DAILY_END -->
