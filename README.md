@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of People Aware of a Secret : https://leetcode.com/problems/number-of-people-aware-of-a-secret/
+Minimum Number of People to Teach : https://leetcode.com/problems/minimum-number-of-people-to-teach/
 <!-- LEETCODE_DAILY_END -->
