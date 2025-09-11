@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Number of People to Teach : https://leetcode.com/problems/minimum-number-of-people-to-teach/
+Sort Vowels in a String : https://leetcode.com/problems/sort-vowels-in-a-string/
 <!-- LEETCODE_DAILY_END -->
