@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Sort Vowels in a String : https://leetcode.com/problems/sort-vowels-in-a-string/
+Vowels Game in a String : https://leetcode.com/problems/vowels-game-in-a-string/
 <!-- LEETCODE_DAILY_END -->
