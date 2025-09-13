@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Vowels Game in a String : https://leetcode.com/problems/vowels-game-in-a-string/
+Find Most Frequent Vowel and Consonant : https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/
 <!-- LEETCODE_DAILY_END -->
