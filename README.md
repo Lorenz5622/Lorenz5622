@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find Most Frequent Vowel and Consonant : https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/
+Vowel Spellchecker : https://leetcode.com/problems/vowel-spellchecker/
 <!-- LEETCODE_DAILY_END -->
