@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Vowel Spellchecker : https://leetcode.com/problems/vowel-spellchecker/
+Maximum Number of Words You Can Type : https://leetcode.com/problems/maximum-number-of-words-you-can-type/
 <!-- LEETCODE_DAILY_END -->
