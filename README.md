@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Number of Words You Can Type : https://leetcode.com/problems/maximum-number-of-words-you-can-type/
+Replace Non-Coprime Numbers in Array : https://leetcode.com/problems/replace-non-coprime-numbers-in-array/
 <!-- LEETCODE_DAILY_END -->
