@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Replace Non-Coprime Numbers in Array : https://leetcode.com/problems/replace-non-coprime-numbers-in-array/
+Design a Food Rating System : https://leetcode.com/problems/design-a-food-rating-system/
 <!-- LEETCODE_DAILY_END -->
