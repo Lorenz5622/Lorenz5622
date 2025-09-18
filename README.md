@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Design a Food Rating System : https://leetcode.com/problems/design-a-food-rating-system/
+Design Task Manager : https://leetcode.com/problems/design-task-manager/
 <!-- LEETCODE_DAILY_END -->
