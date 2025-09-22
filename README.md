@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Design Movie Rental System : https://leetcode.com/problems/design-movie-rental-system/
+Count Elements With Maximum Frequency : https://leetcode.com/problems/count-elements-with-maximum-frequency/
 <!-- LEETCODE_DAILY_END -->
