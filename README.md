@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Compare Version Numbers : https://leetcode.com/problems/compare-version-numbers/
+Fraction to Recurring Decimal : https://leetcode.com/problems/fraction-to-recurring-decimal/
 <!-- LEETCODE_DAILY_END -->
