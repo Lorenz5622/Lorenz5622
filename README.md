@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Fraction to Recurring Decimal : https://leetcode.com/problems/fraction-to-recurring-decimal/
+Triangle : https://leetcode.com/problems/triangle/
 <!-- LEETCODE_DAILY_END -->
