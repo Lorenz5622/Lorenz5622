@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Triangle : https://leetcode.com/problems/triangle/
+Valid Triangle Number : https://leetcode.com/problems/valid-triangle-number/
 <!-- LEETCODE_DAILY_END -->
