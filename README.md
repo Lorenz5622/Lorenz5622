@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Valid Triangle Number : https://leetcode.com/problems/valid-triangle-number/
+Largest Triangle Area : https://leetcode.com/problems/largest-triangle-area/
 <!-- LEETCODE_DAILY_END -->
