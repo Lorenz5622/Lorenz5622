@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Largest Triangle Area : https://leetcode.com/problems/largest-triangle-area/
+Largest Perimeter Triangle : https://leetcode.com/problems/largest-perimeter-triangle/
 <!-- LEETCODE_DAILY_END -->
