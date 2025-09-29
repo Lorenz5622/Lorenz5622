@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Largest Perimeter Triangle : https://leetcode.com/problems/largest-perimeter-triangle/
+Minimum Score Triangulation of Polygon : https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
 <!-- LEETCODE_DAILY_END -->
