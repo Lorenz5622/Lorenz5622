@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Score Triangulation of Polygon : https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
+Find Triangular Sum of an Array : https://leetcode.com/problems/find-triangular-sum-of-an-array/
 <!-- LEETCODE_DAILY_END -->
