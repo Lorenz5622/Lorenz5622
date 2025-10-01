@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find Triangular Sum of an Array : https://leetcode.com/problems/find-triangular-sum-of-an-array/
+Water Bottles : https://leetcode.com/problems/water-bottles/
 <!-- LEETCODE_DAILY_END -->
