@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Water Bottles : https://leetcode.com/problems/water-bottles/
+Water Bottles II : https://leetcode.com/problems/water-bottles-ii/
 <!-- LEETCODE_DAILY_END -->
