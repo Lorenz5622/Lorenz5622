@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Water Bottles II : https://leetcode.com/problems/water-bottles-ii/
+Trapping Rain Water II : https://leetcode.com/problems/trapping-rain-water-ii/
 <!-- LEETCODE_DAILY_END -->
