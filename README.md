@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Avoid Flood in The City : https://leetcode.com/problems/avoid-flood-in-the-city/
+Successful Pairs of Spells and Potions : https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
 <!-- LEETCODE_DAILY_END -->
