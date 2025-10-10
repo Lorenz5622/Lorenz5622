@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Minimum Amount of Time to Brew Potions : https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/
+Taking Maximum Energy From the Mystic Dungeon : https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/
 <!-- LEETCODE_DAILY_END -->
