@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Taking Maximum Energy From the Mystic Dungeon : https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/
+Maximum Total Damage With Spell Casting : https://leetcode.com/problems/maximum-total-damage-with-spell-casting/
 <!-- LEETCODE_DAILY_END -->
