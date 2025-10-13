@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find Sum of Array Product of Magical Sequences : https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/
+Find Resultant Array After Removing Anagrams : https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
 <!-- LEETCODE_DAILY_END -->
