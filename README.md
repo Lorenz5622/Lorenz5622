@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find Resultant Array After Removing Anagrams : https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
+Adjacent Increasing Subarrays Detection I : https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/
 <!-- LEETCODE_DAILY_END -->
