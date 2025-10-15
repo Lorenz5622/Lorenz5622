@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Adjacent Increasing Subarrays Detection I : https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/
+Adjacent Increasing Subarrays Detection II : https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/
 <!-- LEETCODE_DAILY_END -->
