@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Adjacent Increasing Subarrays Detection II : https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/
+Smallest Missing Non-negative Integer After Operations : https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/
 <!-- LEETCODE_DAILY_END -->
