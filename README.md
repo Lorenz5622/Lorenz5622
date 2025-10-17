@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Smallest Missing Non-negative Integer After Operations : https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/
+Maximize the Number of Partitions After Operations : https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/
 <!-- LEETCODE_DAILY_END -->
