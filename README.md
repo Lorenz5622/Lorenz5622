@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximize the Number of Partitions After Operations : https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/
+Maximum Number of Distinct Elements After Operations : https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/
 <!-- LEETCODE_DAILY_END -->
