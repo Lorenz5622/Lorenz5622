@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Number of Distinct Elements After Operations : https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/
+Lexicographically Smallest String After Applying Operations : https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
 <!-- LEETCODE_DAILY_END -->
