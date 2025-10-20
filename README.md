@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Lexicographically Smallest String After Applying Operations : https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
+Final Value of Variable After Performing Operations : https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 <!-- LEETCODE_DAILY_END -->
