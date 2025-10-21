@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Final Value of Variable After Performing Operations : https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+Maximum Frequency of an Element After Performing Operations I : https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/
 <!-- LEETCODE_DAILY_END -->
