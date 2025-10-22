@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Frequency of an Element After Performing Operations I : https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/
+Maximum Frequency of an Element After Performing Operations II : https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/
 <!-- LEETCODE_DAILY_END -->
