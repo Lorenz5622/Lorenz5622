@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Check If Digits Are Equal in String After Operations I : https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/
+Next Greater Numerically Balanced Number : https://leetcode.com/problems/next-greater-numerically-balanced-number/
 <!-- LEETCODE_DAILY_END -->
