@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Next Greater Numerically Balanced Number : https://leetcode.com/problems/next-greater-numerically-balanced-number/
+Calculate Money in Leetcode Bank : https://leetcode.com/problems/calculate-money-in-leetcode-bank/
 <!-- LEETCODE_DAILY_END -->
