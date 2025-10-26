@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Calculate Money in Leetcode Bank : https://leetcode.com/problems/calculate-money-in-leetcode-bank/
+Simple Bank System : https://leetcode.com/problems/simple-bank-system/
 <!-- LEETCODE_DAILY_END -->
