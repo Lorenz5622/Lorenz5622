@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Simple Bank System : https://leetcode.com/problems/simple-bank-system/
+Number of Laser Beams in a Bank : https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 <!-- LEETCODE_DAILY_END -->
