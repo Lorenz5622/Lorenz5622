@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Laser Beams in a Bank : https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
+Make Array Elements Equal to Zero : https://leetcode.com/problems/make-array-elements-equal-to-zero/
 <!-- LEETCODE_DAILY_END -->
