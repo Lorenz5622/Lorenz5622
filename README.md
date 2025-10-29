@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Make Array Elements Equal to Zero : https://leetcode.com/problems/make-array-elements-equal-to-zero/
+Smallest Number With All Set Bits : https://leetcode.com/problems/smallest-number-with-all-set-bits/
 <!-- LEETCODE_DAILY_END -->
