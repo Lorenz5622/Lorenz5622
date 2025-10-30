@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Smallest Number With All Set Bits : https://leetcode.com/problems/smallest-number-with-all-set-bits/
+Minimum Number of Increments on Subarrays to Form a Target Array : https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
 <!-- LEETCODE_DAILY_END -->
