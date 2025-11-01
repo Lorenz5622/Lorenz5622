@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-The Two Sneaky Numbers of Digitville : https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/
+Delete Nodes From Linked List Present in Array : https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/
 <!-- LEETCODE_DAILY_END -->
