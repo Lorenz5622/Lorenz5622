@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Delete Nodes From Linked List Present in Array : https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/
+Count Unguarded Cells in the Grid : https://leetcode.com/problems/count-unguarded-cells-in-the-grid/
 <!-- LEETCODE_DAILY_END -->
