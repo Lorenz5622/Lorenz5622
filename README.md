@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Unguarded Cells in the Grid : https://leetcode.com/problems/count-unguarded-cells-in-the-grid/
+Minimum Time to Make Rope Colorful : https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
 <!-- LEETCODE_DAILY_END -->
