@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Time to Make Rope Colorful : https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
+Find X-Sum of All K-Long Subarrays I : https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/
 <!-- LEETCODE_DAILY_END -->
