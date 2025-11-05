@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find X-Sum of All K-Long Subarrays I : https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/
+Find X-Sum of All K-Long Subarrays II : https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/
 <!-- LEETCODE_DAILY_END -->
