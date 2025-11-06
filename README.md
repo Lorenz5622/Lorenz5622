@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find X-Sum of All K-Long Subarrays II : https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/
+Power Grid Maintenance : https://leetcode.com/problems/power-grid-maintenance/
 <!-- LEETCODE_DAILY_END -->
