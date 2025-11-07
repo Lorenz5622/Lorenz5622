@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Power Grid Maintenance : https://leetcode.com/problems/power-grid-maintenance/
+Maximize the Minimum Powered City : https://leetcode.com/problems/maximize-the-minimum-powered-city/
 <!-- LEETCODE_DAILY_END -->
