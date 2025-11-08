@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximize the Minimum Powered City : https://leetcode.com/problems/maximize-the-minimum-powered-city/
+Minimum One Bit Operations to Make Integers Zero : https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/
 <!-- LEETCODE_DAILY_END -->
