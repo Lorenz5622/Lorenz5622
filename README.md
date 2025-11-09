@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum One Bit Operations to Make Integers Zero : https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/
+Count Operations to Obtain Zero : https://leetcode.com/problems/count-operations-to-obtain-zero/
 <!-- LEETCODE_DAILY_END -->
