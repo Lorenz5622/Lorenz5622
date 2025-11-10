@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Operations to Obtain Zero : https://leetcode.com/problems/count-operations-to-obtain-zero/
+Minimum Operations to Convert All Elements to Zero : https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/
 <!-- LEETCODE_DAILY_END -->
