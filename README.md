@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Operations to Convert All Elements to Zero : https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/
+Ones and Zeroes : https://leetcode.com/problems/ones-and-zeroes/
 <!-- LEETCODE_DAILY_END -->
