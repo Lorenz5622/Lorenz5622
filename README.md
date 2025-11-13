@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Number of Operations to Make All Array Elements Equal to 1 : https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/
+Maximum Number of Operations to Move Ones to the End : https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/
 <!-- LEETCODE_DAILY_END -->
