@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Number of Operations to Move Ones to the End : https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/
+Increment Submatrices by One : https://leetcode.com/problems/increment-submatrices-by-one/
 <!-- LEETCODE_DAILY_END -->
