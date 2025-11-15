@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Increment Submatrices by One : https://leetcode.com/problems/increment-submatrices-by-one/
+Count the Number of Substrings With Dominant Ones : https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/
 <!-- LEETCODE_DAILY_END -->
