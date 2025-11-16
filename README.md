@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count the Number of Substrings With Dominant Ones : https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/
+Number of Substrings With Only 1s : https://leetcode.com/problems/number-of-substrings-with-only-1s/
 <!-- LEETCODE_DAILY_END -->
