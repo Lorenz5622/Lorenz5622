@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Substrings With Only 1s : https://leetcode.com/problems/number-of-substrings-with-only-1s/
+Check If All 1's Are at Least Length K Places Away : https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
 <!-- LEETCODE_DAILY_END -->
