@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-1-bit and 2-bit Characters : https://leetcode.com/problems/1-bit-and-2-bit-characters/
+Keep Multiplying Found Values by Two : https://leetcode.com/problems/keep-multiplying-found-values-by-two/
 <!-- LEETCODE_DAILY_END -->
