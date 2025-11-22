@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Unique Length-3 Palindromic Subsequences : https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
+Find Minimum Operations to Make All Elements Divisible by Three : https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/
 <!-- LEETCODE_DAILY_END -->
