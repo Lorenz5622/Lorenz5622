@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Greatest Sum Divisible by Three : https://leetcode.com/problems/greatest-sum-divisible-by-three/
+Binary Prefix Divisible By 5 : https://leetcode.com/problems/binary-prefix-divisible-by-5/
 <!-- LEETCODE_DAILY_END -->
