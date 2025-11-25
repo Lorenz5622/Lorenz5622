@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Binary Prefix Divisible By 5 : https://leetcode.com/problems/binary-prefix-divisible-by-5/
+Smallest Integer Divisible by K : https://leetcode.com/problems/smallest-integer-divisible-by-k/
 <!-- LEETCODE_DAILY_END -->
