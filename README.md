@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Paths in Matrix Whose Sum Is Divisible by K : https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/
+Maximum Subarray Sum With Length Divisible by K : https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/
 <!-- LEETCODE_DAILY_END -->
