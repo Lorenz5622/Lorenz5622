@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Subarray Sum With Length Divisible by K : https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/
+Maximum Number of K-Divisible Components : https://leetcode.com/problems/maximum-number-of-k-divisible-components/
 <!-- LEETCODE_DAILY_END -->
