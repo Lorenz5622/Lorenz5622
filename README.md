@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Number of K-Divisible Components : https://leetcode.com/problems/maximum-number-of-k-divisible-components/
+Minimum Operations to Make Array Sum Divisible by K : https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/
 <!-- LEETCODE_DAILY_END -->
