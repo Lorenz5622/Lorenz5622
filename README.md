@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Operations to Make Array Sum Divisible by K : https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/
+Make Sum Divisible by P : https://leetcode.com/problems/make-sum-divisible-by-p/
 <!-- LEETCODE_DAILY_END -->
