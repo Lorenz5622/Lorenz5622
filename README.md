@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Make Sum Divisible by P : https://leetcode.com/problems/make-sum-divisible-by-p/
+Maximum Running Time of N Computers : https://leetcode.com/problems/maximum-running-time-of-n-computers/
 <!-- LEETCODE_DAILY_END -->
