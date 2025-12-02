@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Running Time of N Computers : https://leetcode.com/problems/maximum-running-time-of-n-computers/
+Count Number of Trapezoids I : https://leetcode.com/problems/count-number-of-trapezoids-i/
 <!-- LEETCODE_DAILY_END -->
