@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Number of Trapezoids II : https://leetcode.com/problems/count-number-of-trapezoids-ii/
+Count Collisions on a Road : https://leetcode.com/problems/count-collisions-on-a-road/
 <!-- LEETCODE_DAILY_END -->
