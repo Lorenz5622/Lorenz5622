@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Collisions on a Road : https://leetcode.com/problems/count-collisions-on-a-road/
+Count Partitions with Even Sum Difference : https://leetcode.com/problems/count-partitions-with-even-sum-difference/
 <!-- LEETCODE_DAILY_END -->
