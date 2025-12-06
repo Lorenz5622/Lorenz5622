@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Partitions with Even Sum Difference : https://leetcode.com/problems/count-partitions-with-even-sum-difference/
+Count Partitions With Max-Min Difference at Most K : https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/
 <!-- LEETCODE_DAILY_END -->
