@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Partitions With Max-Min Difference at Most K : https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/
+Count Odd Numbers in an Interval Range : https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 <!-- LEETCODE_DAILY_END -->
