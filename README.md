@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Odd Numbers in an Interval Range : https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
+Count Square Sum Triples : https://leetcode.com/problems/count-square-sum-triples/
 <!-- LEETCODE_DAILY_END -->
