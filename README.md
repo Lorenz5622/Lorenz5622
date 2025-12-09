@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Square Sum Triples : https://leetcode.com/problems/count-square-sum-triples/
+Count Special Triplets : https://leetcode.com/problems/count-special-triplets/
 <!-- LEETCODE_DAILY_END -->
