@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Special Triplets : https://leetcode.com/problems/count-special-triplets/
+Count the Number of Computer Unlocking Permutations : https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/
 <!-- LEETCODE_DAILY_END -->
