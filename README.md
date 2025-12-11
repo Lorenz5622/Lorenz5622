@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count the Number of Computer Unlocking Permutations : https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/
+Count Covered Buildings : https://leetcode.com/problems/count-covered-buildings/
 <!-- LEETCODE_DAILY_END -->
