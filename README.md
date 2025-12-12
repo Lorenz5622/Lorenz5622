@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Covered Buildings : https://leetcode.com/problems/count-covered-buildings/
+Count Mentions Per User : https://leetcode.com/problems/count-mentions-per-user/
 <!-- LEETCODE_DAILY_END -->
