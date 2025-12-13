@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Mentions Per User : https://leetcode.com/problems/count-mentions-per-user/
+Coupon Code Validator : https://leetcode.com/problems/coupon-code-validator/
 <!-- LEETCODE_DAILY_END -->
