@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Coupon Code Validator : https://leetcode.com/problems/coupon-code-validator/
+Number of Ways to Divide a Long Corridor : https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/
 <!-- LEETCODE_DAILY_END -->
