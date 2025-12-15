@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Ways to Divide a Long Corridor : https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/
+Number of Smooth Descent Periods of a Stock : https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
 <!-- LEETCODE_DAILY_END -->
