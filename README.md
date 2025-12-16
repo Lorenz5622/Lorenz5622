@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Smooth Descent Periods of a Stock : https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
+Maximum Profit from Trading Stocks with Discounts : https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/
 <!-- LEETCODE_DAILY_END -->
