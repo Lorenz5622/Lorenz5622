@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Profit from Trading Stocks with Discounts : https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/
+Best Time to Buy and Sell Stock V : https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/
 <!-- LEETCODE_DAILY_END -->
