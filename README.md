@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Best Time to Buy and Sell Stock V : https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/
+Best Time to Buy and Sell Stock using Strategy : https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/
 <!-- LEETCODE_DAILY_END -->
