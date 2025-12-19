@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Best Time to Buy and Sell Stock using Strategy : https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/
+Find All People With Secret : https://leetcode.com/problems/find-all-people-with-secret/
 <!-- LEETCODE_DAILY_END -->
