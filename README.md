@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find All People With Secret : https://leetcode.com/problems/find-all-people-with-secret/
+Delete Columns to Make Sorted : https://leetcode.com/problems/delete-columns-to-make-sorted/
 <!-- LEETCODE_DAILY_END -->
