@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Delete Columns to Make Sorted : https://leetcode.com/problems/delete-columns-to-make-sorted/
+Delete Columns to Make Sorted II : https://leetcode.com/problems/delete-columns-to-make-sorted-ii/
 <!-- LEETCODE_DAILY_END -->
