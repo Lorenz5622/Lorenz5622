@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Apple Redistribution into Boxes : https://leetcode.com/problems/apple-redistribution-into-boxes/
+Maximize Happiness of Selected Children : https://leetcode.com/problems/maximize-happiness-of-selected-children/
 <!-- LEETCODE_DAILY_END -->
