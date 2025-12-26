@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximize Happiness of Selected Children : https://leetcode.com/problems/maximize-happiness-of-selected-children/
+Minimum Penalty for a Shop : https://leetcode.com/problems/minimum-penalty-for-a-shop/
 <!-- LEETCODE_DAILY_END -->
