@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Penalty for a Shop : https://leetcode.com/problems/minimum-penalty-for-a-shop/
+Meeting Rooms III : https://leetcode.com/problems/meeting-rooms-iii/
 <!-- LEETCODE_DAILY_END -->
