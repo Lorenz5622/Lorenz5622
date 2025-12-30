@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Pyramid Transition Matrix : https://leetcode.com/problems/pyramid-transition-matrix/
+Magic Squares In Grid : https://leetcode.com/problems/magic-squares-in-grid/
 <!-- LEETCODE_DAILY_END -->
