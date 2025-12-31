@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Magic Squares In Grid : https://leetcode.com/problems/magic-squares-in-grid/
+Last Day Where You Can Still Cross : https://leetcode.com/problems/last-day-where-you-can-still-cross/
 <!-- LEETCODE_DAILY_END -->
