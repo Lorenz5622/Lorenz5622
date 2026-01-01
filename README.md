@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Last Day Where You Can Still Cross : https://leetcode.com/problems/last-day-where-you-can-still-cross/
+Plus One : https://leetcode.com/problems/plus-one/
 <!-- LEETCODE_DAILY_END -->
