@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Plus One : https://leetcode.com/problems/plus-one/
+N-Repeated Element in Size 2N Array : https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 <!-- LEETCODE_DAILY_END -->
