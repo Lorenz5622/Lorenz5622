@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-N-Repeated Element in Size 2N Array : https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
+Number of Ways to Paint N × 3 Grid : https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/
 <!-- LEETCODE_DAILY_END -->
