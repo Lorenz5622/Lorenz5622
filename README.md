@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Ways to Paint N × 3 Grid : https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/
+Four Divisors : https://leetcode.com/problems/four-divisors/
 <!-- LEETCODE_DAILY_END -->
