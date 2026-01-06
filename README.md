@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Matrix Sum : https://leetcode.com/problems/maximum-matrix-sum/
+Maximum Level Sum of a Binary Tree : https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
 <!-- LEETCODE_DAILY_END -->
