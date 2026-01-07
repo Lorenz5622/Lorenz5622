@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Level Sum of a Binary Tree : https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+Maximum Product of Splitted Binary Tree : https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
 <!-- LEETCODE_DAILY_END -->
