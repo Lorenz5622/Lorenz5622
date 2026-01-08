@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Product of Splitted Binary Tree : https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
+Max Dot Product of Two Subsequences : https://leetcode.com/problems/max-dot-product-of-two-subsequences/
 <!-- LEETCODE_DAILY_END -->
