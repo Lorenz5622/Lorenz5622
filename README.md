@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Max Dot Product of Two Subsequences : https://leetcode.com/problems/max-dot-product-of-two-subsequences/
+Smallest Subtree with all the Deepest Nodes : https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
 <!-- LEETCODE_DAILY_END -->
