@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Smallest Subtree with all the Deepest Nodes : https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
+Minimum ASCII Delete Sum for Two Strings : https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
 <!-- LEETCODE_DAILY_END -->
