@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum ASCII Delete Sum for Two Strings : https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
+Maximal Rectangle : https://leetcode.com/problems/maximal-rectangle/
 <!-- LEETCODE_DAILY_END -->
