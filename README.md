@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximal Rectangle : https://leetcode.com/problems/maximal-rectangle/
+Minimum Time Visiting All Points : https://leetcode.com/problems/minimum-time-visiting-all-points/
 <!-- LEETCODE_DAILY_END -->
