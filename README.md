@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Time Visiting All Points : https://leetcode.com/problems/minimum-time-visiting-all-points/
+Separate Squares I : https://leetcode.com/problems/separate-squares-i/
 <!-- LEETCODE_DAILY_END -->
