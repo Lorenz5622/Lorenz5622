@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Separate Squares I : https://leetcode.com/problems/separate-squares-i/
+Separate Squares II : https://leetcode.com/problems/separate-squares-ii/
 <!-- LEETCODE_DAILY_END -->
