@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Separate Squares II : https://leetcode.com/problems/separate-squares-ii/
+Maximize Area of Square Hole in Grid : https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/
 <!-- LEETCODE_DAILY_END -->
