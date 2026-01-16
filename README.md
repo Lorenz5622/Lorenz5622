@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximize Area of Square Hole in Grid : https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/
+Maximum Square Area by Removing Fences From a Field : https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/
 <!-- LEETCODE_DAILY_END -->
