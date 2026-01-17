@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Square Area by Removing Fences From a Field : https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/
+Find the Largest Area of Square Inside Two Rectangles : https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/
 <!-- LEETCODE_DAILY_END -->
