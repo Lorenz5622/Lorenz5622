@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Largest Area of Square Inside Two Rectangles : https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/
+Largest Magic Square : https://leetcode.com/problems/largest-magic-square/
 <!-- LEETCODE_DAILY_END -->
