@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Largest Magic Square : https://leetcode.com/problems/largest-magic-square/
+Maximum Side Length of a Square with Sum Less than or Equal to Threshold : https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
 <!-- LEETCODE_DAILY_END -->
