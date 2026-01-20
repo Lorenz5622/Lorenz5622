@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Side Length of a Square with Sum Less than or Equal to Threshold : https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
+Construct the Minimum Bitwise Array I : https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/
 <!-- LEETCODE_DAILY_END -->
