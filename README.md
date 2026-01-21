@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Construct the Minimum Bitwise Array I : https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/
+Construct the Minimum Bitwise Array II : https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/
 <!-- LEETCODE_DAILY_END -->
