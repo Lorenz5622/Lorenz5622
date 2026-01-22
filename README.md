@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Construct the Minimum Bitwise Array II : https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/
+Minimum Pair Removal to Sort Array I : https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/
 <!-- LEETCODE_DAILY_END -->
