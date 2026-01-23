@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Pair Removal to Sort Array I : https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/
+Minimum Pair Removal to Sort Array II : https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/
 <!-- LEETCODE_DAILY_END -->
