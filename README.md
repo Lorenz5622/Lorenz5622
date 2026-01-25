@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimize Maximum Pair Sum in Array : https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
+Minimum Difference Between Highest and Lowest of K Scores : https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 <!-- LEETCODE_DAILY_END -->
