@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Difference Between Highest and Lowest of K Scores : https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
+Minimum Absolute Difference : https://leetcode.com/problems/minimum-absolute-difference/
 <!-- LEETCODE_DAILY_END -->
