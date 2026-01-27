@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Absolute Difference : https://leetcode.com/problems/minimum-absolute-difference/
+Minimum Cost Path with Edge Reversals : https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/
 <!-- LEETCODE_DAILY_END -->
