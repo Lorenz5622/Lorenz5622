@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Cost Path with Edge Reversals : https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/
+Minimum Cost Path with Teleportations : https://leetcode.com/problems/minimum-cost-path-with-teleportations/
 <!-- LEETCODE_DAILY_END -->
