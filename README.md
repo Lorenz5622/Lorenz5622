@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Cost Path with Teleportations : https://leetcode.com/problems/minimum-cost-path-with-teleportations/
+Minimum Cost to Convert String I : https://leetcode.com/problems/minimum-cost-to-convert-string-i/
 <!-- LEETCODE_DAILY_END -->
