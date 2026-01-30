@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Cost to Convert String I : https://leetcode.com/problems/minimum-cost-to-convert-string-i/
+Minimum Cost to Convert String II : https://leetcode.com/problems/minimum-cost-to-convert-string-ii/
 <!-- LEETCODE_DAILY_END -->
