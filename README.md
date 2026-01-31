@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Cost to Convert String II : https://leetcode.com/problems/minimum-cost-to-convert-string-ii/
+Find Smallest Letter Greater Than Target : https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 <!-- LEETCODE_DAILY_END -->
