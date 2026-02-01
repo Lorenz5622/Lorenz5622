@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find Smallest Letter Greater Than Target : https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+Divide an Array Into Subarrays With Minimum Cost I : https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/
 <!-- LEETCODE_DAILY_END -->
