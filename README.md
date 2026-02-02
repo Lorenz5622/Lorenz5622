@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Divide an Array Into Subarrays With Minimum Cost I : https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/
+Divide an Array Into Subarrays With Minimum Cost II : https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/
 <!-- LEETCODE_DAILY_END -->
