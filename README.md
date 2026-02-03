@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Divide an Array Into Subarrays With Minimum Cost II : https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/
+Trionic Array I : https://leetcode.com/problems/trionic-array-i/
 <!-- LEETCODE_DAILY_END -->
