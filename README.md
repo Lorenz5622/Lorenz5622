@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Trionic Array I : https://leetcode.com/problems/trionic-array-i/
+Trionic Array II : https://leetcode.com/problems/trionic-array-ii/
 <!-- LEETCODE_DAILY_END -->
