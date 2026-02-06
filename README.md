@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Transformed Array : https://leetcode.com/problems/transformed-array/
+Minimum Removals to Balance Array : https://leetcode.com/problems/minimum-removals-to-balance-array/
 <!-- LEETCODE_DAILY_END -->
