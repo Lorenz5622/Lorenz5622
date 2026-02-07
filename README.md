@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Removals to Balance Array : https://leetcode.com/problems/minimum-removals-to-balance-array/
+Minimum Deletions to Make String Balanced : https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
 <!-- LEETCODE_DAILY_END -->
