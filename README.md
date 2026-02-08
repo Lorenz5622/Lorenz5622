@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Deletions to Make String Balanced : https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
+Balanced Binary Tree : https://leetcode.com/problems/balanced-binary-tree/
 <!-- LEETCODE_DAILY_END -->
