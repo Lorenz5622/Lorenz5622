@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Balanced Binary Tree : https://leetcode.com/problems/balanced-binary-tree/
+Balance a Binary Search Tree : https://leetcode.com/problems/balance-a-binary-search-tree/
 <!-- LEETCODE_DAILY_END -->
