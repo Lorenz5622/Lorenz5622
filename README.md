@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Balance a Binary Search Tree : https://leetcode.com/problems/balance-a-binary-search-tree/
+Longest Balanced Subarray I : https://leetcode.com/problems/longest-balanced-subarray-i/
 <!-- LEETCODE_DAILY_END -->
