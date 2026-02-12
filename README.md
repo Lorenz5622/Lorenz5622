@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Longest Balanced Subarray II : https://leetcode.com/problems/longest-balanced-subarray-ii/
+Longest Balanced Substring I : https://leetcode.com/problems/longest-balanced-substring-i/
 <!-- LEETCODE_DAILY_END -->
