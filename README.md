@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Longest Balanced Substring II : https://leetcode.com/problems/longest-balanced-substring-ii/
+Champagne Tower : https://leetcode.com/problems/champagne-tower/
 <!-- LEETCODE_DAILY_END -->
