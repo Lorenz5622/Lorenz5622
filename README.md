@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Champagne Tower : https://leetcode.com/problems/champagne-tower/
+Add Binary : https://leetcode.com/problems/add-binary/
 <!-- LEETCODE_DAILY_END -->
