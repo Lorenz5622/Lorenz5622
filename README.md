@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Reverse Bits : https://leetcode.com/problems/reverse-bits/
+Binary Watch : https://leetcode.com/problems/binary-watch/
 <!-- LEETCODE_DAILY_END -->
