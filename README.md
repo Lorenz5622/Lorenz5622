@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Binary Watch : https://leetcode.com/problems/binary-watch/
+Binary Number with Alternating Bits : https://leetcode.com/problems/binary-number-with-alternating-bits/
 <!-- LEETCODE_DAILY_END -->
