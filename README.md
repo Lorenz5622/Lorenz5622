@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Binary Number with Alternating Bits : https://leetcode.com/problems/binary-number-with-alternating-bits/
+Count Binary Substrings : https://leetcode.com/problems/count-binary-substrings/
 <!-- LEETCODE_DAILY_END -->
