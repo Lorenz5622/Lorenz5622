@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Binary Substrings : https://leetcode.com/problems/count-binary-substrings/
+Special Binary String : https://leetcode.com/problems/special-binary-string/
 <!-- LEETCODE_DAILY_END -->
