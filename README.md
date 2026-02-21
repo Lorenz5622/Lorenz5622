@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Special Binary String : https://leetcode.com/problems/special-binary-string/
+Prime Number of Set Bits in Binary Representation : https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
 <!-- LEETCODE_DAILY_END -->
