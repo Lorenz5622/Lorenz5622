@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Prime Number of Set Bits in Binary Representation : https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
+Binary Gap : https://leetcode.com/problems/binary-gap/
 <!-- LEETCODE_DAILY_END -->
