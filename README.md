@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Binary Gap : https://leetcode.com/problems/binary-gap/
+Check If a String Contains All Binary Codes of Size K : https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 <!-- LEETCODE_DAILY_END -->
