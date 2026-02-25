@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Sum of Root To Leaf Binary Numbers : https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
+Sort Integers by The Number of 1 Bits : https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
 <!-- LEETCODE_DAILY_END -->
