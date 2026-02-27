@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Steps to Reduce a Number in Binary Representation to One : https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
+Minimum Operations to Equalize Binary String : https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/
 <!-- LEETCODE_DAILY_END -->
