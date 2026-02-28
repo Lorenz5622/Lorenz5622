@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Operations to Equalize Binary String : https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/
+Concatenation of Consecutive Binary Numbers : https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 <!-- LEETCODE_DAILY_END -->
