@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Concatenation of Consecutive Binary Numbers : https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
+Partitioning Into Minimum Number Of Deci-Binary Numbers : https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 <!-- LEETCODE_DAILY_END -->
