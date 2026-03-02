@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Partitioning Into Minimum Number Of Deci-Binary Numbers : https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+Minimum Swaps to Arrange a Binary Grid : https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/
 <!-- LEETCODE_DAILY_END -->
