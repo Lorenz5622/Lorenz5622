@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Swaps to Arrange a Binary Grid : https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/
+Find Kth Bit in Nth Binary String : https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/
 <!-- LEETCODE_DAILY_END -->
