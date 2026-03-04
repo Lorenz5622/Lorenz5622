@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find Kth Bit in Nth Binary String : https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/
+Special Positions in a Binary Matrix : https://leetcode.com/problems/special-positions-in-a-binary-matrix/
 <!-- LEETCODE_DAILY_END -->
