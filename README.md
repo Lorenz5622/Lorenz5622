@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Special Positions in a Binary Matrix : https://leetcode.com/problems/special-positions-in-a-binary-matrix/
+Minimum Changes To Make Alternating Binary String : https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
 <!-- LEETCODE_DAILY_END -->
