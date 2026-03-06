@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Changes To Make Alternating Binary String : https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
+Check if Binary String Has at Most One Segment of Ones : https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 <!-- LEETCODE_DAILY_END -->
