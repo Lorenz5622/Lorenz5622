@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Check if Binary String Has at Most One Segment of Ones : https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
+Minimum Number of Flips to Make the Binary String Alternating : https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/
 <!-- LEETCODE_DAILY_END -->
