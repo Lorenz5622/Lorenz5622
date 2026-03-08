@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Number of Flips to Make the Binary String Alternating : https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/
+Find Unique Binary String : https://leetcode.com/problems/find-unique-binary-string/
 <!-- LEETCODE_DAILY_END -->
