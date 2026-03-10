@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find All Possible Stable Binary Arrays I : https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/
+Find All Possible Stable Binary Arrays II : https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/
 <!-- LEETCODE_DAILY_END -->
