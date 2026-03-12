@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Complement of Base 10 Integer : https://leetcode.com/problems/complement-of-base-10-integer/
+Maximize Spanning Tree Stability with Upgrades : https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/
 <!-- LEETCODE_DAILY_END -->
