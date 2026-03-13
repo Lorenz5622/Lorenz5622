@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximize Spanning Tree Stability with Upgrades : https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/
+Minimum Number of Seconds to Make Mountain Height Zero : https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/
 <!-- LEETCODE_DAILY_END -->
