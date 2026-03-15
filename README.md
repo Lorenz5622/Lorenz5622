@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-The k-th Lexicographical String of All Happy Strings of Length n : https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
+Fancy Sequence : https://leetcode.com/problems/fancy-sequence/
 <!-- LEETCODE_DAILY_END -->
