@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Fancy Sequence : https://leetcode.com/problems/fancy-sequence/
+Get Biggest Three Rhombus Sums in a Grid : https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/
 <!-- LEETCODE_DAILY_END -->
