@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Submatrices with Top-Left Element and Sum Less Than k : https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/
+Count Submatrices With Equal Frequency of X and Y : https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/
 <!-- LEETCODE_DAILY_END -->
