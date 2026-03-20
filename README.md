@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Submatrices With Equal Frequency of X and Y : https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/
+Minimum Absolute Difference in Sliding Submatrix : https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/
 <!-- LEETCODE_DAILY_END -->
