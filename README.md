@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Flip Square Submatrix Vertically : https://leetcode.com/problems/flip-square-submatrix-vertically/
+Determine Whether Matrix Can Be Obtained By Rotation : https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 <!-- LEETCODE_DAILY_END -->
