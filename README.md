@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Construct Product Matrix : https://leetcode.com/problems/construct-product-matrix/
+Equal Sum Grid Partition I : https://leetcode.com/problems/equal-sum-grid-partition-i/
 <!-- LEETCODE_DAILY_END -->
