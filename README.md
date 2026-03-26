@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Equal Sum Grid Partition I : https://leetcode.com/problems/equal-sum-grid-partition-i/
+Equal Sum Grid Partition II : https://leetcode.com/problems/equal-sum-grid-partition-ii/
 <!-- LEETCODE_DAILY_END -->
