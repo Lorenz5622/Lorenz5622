@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Matrix Similarity After Cyclic Shifts : https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/
+Find the String with LCP : https://leetcode.com/problems/find-the-string-with-lcp/
 <!-- LEETCODE_DAILY_END -->
