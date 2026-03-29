@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the String with LCP : https://leetcode.com/problems/find-the-string-with-lcp/
+Check if Strings Can be Made Equal With Operations I : https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/
 <!-- LEETCODE_DAILY_END -->
