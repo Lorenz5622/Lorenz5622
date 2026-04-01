@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Lexicographically Smallest Generated String : https://leetcode.com/problems/lexicographically-smallest-generated-string/
+Robot Collisions : https://leetcode.com/problems/robot-collisions/
 <!-- LEETCODE_DAILY_END -->
