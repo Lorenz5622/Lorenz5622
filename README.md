@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Robot Collisions : https://leetcode.com/problems/robot-collisions/
+Maximum Amount of Money Robot Can Earn : https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/
 <!-- LEETCODE_DAILY_END -->
