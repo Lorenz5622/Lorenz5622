@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Amount of Money Robot Can Earn : https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/
+Maximum Walls Destroyed by Robots : https://leetcode.com/problems/maximum-walls-destroyed-by-robots/
 <!-- LEETCODE_DAILY_END -->
