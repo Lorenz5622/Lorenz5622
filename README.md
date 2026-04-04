@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Walls Destroyed by Robots : https://leetcode.com/problems/maximum-walls-destroyed-by-robots/
+Decode the Slanted Ciphertext : https://leetcode.com/problems/decode-the-slanted-ciphertext/
 <!-- LEETCODE_DAILY_END -->
