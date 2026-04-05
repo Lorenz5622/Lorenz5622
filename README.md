@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Decode the Slanted Ciphertext : https://leetcode.com/problems/decode-the-slanted-ciphertext/
+Robot Return to Origin : https://leetcode.com/problems/robot-return-to-origin/
 <!-- LEETCODE_DAILY_END -->
