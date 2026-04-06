@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Robot Return to Origin : https://leetcode.com/problems/robot-return-to-origin/
+Walking Robot Simulation : https://leetcode.com/problems/walking-robot-simulation/
 <!-- LEETCODE_DAILY_END -->
