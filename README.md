@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Walking Robot Simulation : https://leetcode.com/problems/walking-robot-simulation/
+Walking Robot Simulation II : https://leetcode.com/problems/walking-robot-simulation-ii/
 <!-- LEETCODE_DAILY_END -->
