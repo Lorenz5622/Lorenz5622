@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Walking Robot Simulation II : https://leetcode.com/problems/walking-robot-simulation-ii/
+XOR After Range Multiplication Queries I : https://leetcode.com/problems/xor-after-range-multiplication-queries-i/
 <!-- LEETCODE_DAILY_END -->
