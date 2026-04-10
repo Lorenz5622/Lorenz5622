@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-XOR After Range Multiplication Queries II : https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/
+Minimum Distance Between Three Equal Elements I : https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/
 <!-- LEETCODE_DAILY_END -->
