@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Distance Between Three Equal Elements I : https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/
+Minimum Distance Between Three Equal Elements II : https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/
 <!-- LEETCODE_DAILY_END -->
