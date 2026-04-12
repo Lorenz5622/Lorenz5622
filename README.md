@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Distance Between Three Equal Elements II : https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/
+Minimum Distance to Type a Word Using Two Fingers : https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
 <!-- LEETCODE_DAILY_END -->
