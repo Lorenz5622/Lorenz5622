@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Distance to Type a Word Using Two Fingers : https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
+Minimum Distance to the Target Element : https://leetcode.com/problems/minimum-distance-to-the-target-element/
 <!-- LEETCODE_DAILY_END -->
