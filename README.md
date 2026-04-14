@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Distance to the Target Element : https://leetcode.com/problems/minimum-distance-to-the-target-element/
+Minimum Total Distance Traveled : https://leetcode.com/problems/minimum-total-distance-traveled/
 <!-- LEETCODE_DAILY_END -->
