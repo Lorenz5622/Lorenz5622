@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Total Distance Traveled : https://leetcode.com/problems/minimum-total-distance-traveled/
+Shortest Distance to Target String in a Circular Array : https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
 <!-- LEETCODE_DAILY_END -->
