@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Mirror Distance of an Integer : https://leetcode.com/problems/mirror-distance-of-an-integer/
+Maximum Distance Between a Pair of Values : https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/
 <!-- LEETCODE_DAILY_END -->
