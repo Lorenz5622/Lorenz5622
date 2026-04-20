@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Distance Between a Pair of Values : https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/
+Two Furthest Houses With Different Colors : https://leetcode.com/problems/two-furthest-houses-with-different-colors/
 <!-- LEETCODE_DAILY_END -->
