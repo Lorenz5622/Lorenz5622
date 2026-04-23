@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Words Within Two Edits of Dictionary : https://leetcode.com/problems/words-within-two-edits-of-dictionary/
+Sum of Distances : https://leetcode.com/problems/sum-of-distances/
 <!-- LEETCODE_DAILY_END -->
