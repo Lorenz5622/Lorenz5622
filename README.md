@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Sum of Distances : https://leetcode.com/problems/sum-of-distances/
+Furthest Point From Origin : https://leetcode.com/problems/furthest-point-from-origin/
 <!-- LEETCODE_DAILY_END -->
