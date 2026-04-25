@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Furthest Point From Origin : https://leetcode.com/problems/furthest-point-from-origin/
+Maximize the Distance Between Points on a Square : https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/
 <!-- LEETCODE_DAILY_END -->
