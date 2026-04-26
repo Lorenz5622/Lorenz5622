@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximize the Distance Between Points on a Square : https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/
+Detect Cycles in 2D Grid : https://leetcode.com/problems/detect-cycles-in-2d-grid/
 <!-- LEETCODE_DAILY_END -->
