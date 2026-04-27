@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Detect Cycles in 2D Grid : https://leetcode.com/problems/detect-cycles-in-2d-grid/
+Check if There is a Valid Path in a Grid : https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
 <!-- LEETCODE_DAILY_END -->
