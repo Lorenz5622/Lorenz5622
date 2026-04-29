@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Operations to Make a Uni-Value Grid : https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
+Maximum Score From Grid Operations : https://leetcode.com/problems/maximum-score-from-grid-operations/
 <!-- LEETCODE_DAILY_END -->
