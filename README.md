@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Score From Grid Operations : https://leetcode.com/problems/maximum-score-from-grid-operations/
+Maximum Path Score in a Grid : https://leetcode.com/problems/maximum-path-score-in-a-grid/
 <!-- LEETCODE_DAILY_END -->
