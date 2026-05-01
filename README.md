@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Path Score in a Grid : https://leetcode.com/problems/maximum-path-score-in-a-grid/
+Rotate Function : https://leetcode.com/problems/rotate-function/
 <!-- LEETCODE_DAILY_END -->
