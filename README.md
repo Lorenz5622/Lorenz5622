@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Rotated Digits : https://leetcode.com/problems/rotated-digits/
+Rotate String : https://leetcode.com/problems/rotate-string/
 <!-- LEETCODE_DAILY_END -->
