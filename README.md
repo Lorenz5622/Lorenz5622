@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Rotate Image : https://leetcode.com/problems/rotate-image/
+Rotate List : https://leetcode.com/problems/rotate-list/
 <!-- LEETCODE_DAILY_END -->
