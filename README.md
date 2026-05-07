@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Rotating the Box : https://leetcode.com/problems/rotating-the-box/
+Jump Game IX : https://leetcode.com/problems/jump-game-ix/
 <!-- LEETCODE_DAILY_END -->
