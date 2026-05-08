@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Jump Game IX : https://leetcode.com/problems/jump-game-ix/
+Minimum Jumps to Reach End via Prime Teleportation : https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/
 <!-- LEETCODE_DAILY_END -->
