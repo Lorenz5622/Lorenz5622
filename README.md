@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Jumps to Reach End via Prime Teleportation : https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/
+Cyclically Rotating a Grid : https://leetcode.com/problems/cyclically-rotating-a-grid/
 <!-- LEETCODE_DAILY_END -->
