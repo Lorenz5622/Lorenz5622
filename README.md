@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Moves to Make Array Complementary : https://leetcode.com/problems/minimum-moves-to-make-array-complementary/
+Check if Array is Good : https://leetcode.com/problems/check-if-array-is-good/
 <!-- LEETCODE_DAILY_END -->
