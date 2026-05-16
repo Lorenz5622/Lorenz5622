@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find Minimum in Rotated Sorted Array : https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+Find Minimum in Rotated Sorted Array II : https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 <!-- LEETCODE_DAILY_END -->
