@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Jump Game IV : https://leetcode.com/problems/jump-game-iv/
+Minimum Common Value : https://leetcode.com/problems/minimum-common-value/
 <!-- LEETCODE_DAILY_END -->
