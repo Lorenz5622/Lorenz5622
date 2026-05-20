@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Common Value : https://leetcode.com/problems/minimum-common-value/
+Find the Prefix Common Array of Two Arrays : https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/
 <!-- LEETCODE_DAILY_END -->
