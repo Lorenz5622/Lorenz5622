@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Prefix Common Array of Two Arrays : https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/
+Find the Length of the Longest Common Prefix : https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 <!-- LEETCODE_DAILY_END -->
