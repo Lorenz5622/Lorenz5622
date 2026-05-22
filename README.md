@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Length of the Longest Common Prefix : https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
+Search in Rotated Sorted Array : https://leetcode.com/problems/search-in-rotated-sorted-array/
 <!-- LEETCODE_DAILY_END -->
