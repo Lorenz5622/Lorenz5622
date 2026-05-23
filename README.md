@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Search in Rotated Sorted Array : https://leetcode.com/problems/search-in-rotated-sorted-array/
+Check if Array Is Sorted and Rotated : https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 <!-- LEETCODE_DAILY_END -->
