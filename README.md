@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Check if Array Is Sorted and Rotated : https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+Jump Game V : https://leetcode.com/problems/jump-game-v/
 <!-- LEETCODE_DAILY_END -->
