@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Jump Game V : https://leetcode.com/problems/jump-game-v/
+Jump Game VII : https://leetcode.com/problems/jump-game-vii/
 <!-- LEETCODE_DAILY_END -->
