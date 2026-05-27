@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count the Number of Special Characters I : https://leetcode.com/problems/count-the-number-of-special-characters-i/
+Count the Number of Special Characters II : https://leetcode.com/problems/count-the-number-of-special-characters-ii/
 <!-- LEETCODE_DAILY_END -->
