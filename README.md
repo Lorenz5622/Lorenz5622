@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Element After Replacement With Digit Sum : https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/
+Block Placement Queries : https://leetcode.com/problems/block-placement-queries/
 <!-- LEETCODE_DAILY_END -->
