@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Block Placement Queries : https://leetcode.com/problems/block-placement-queries/
+Destroying Asteroids : https://leetcode.com/problems/destroying-asteroids/
 <!-- LEETCODE_DAILY_END -->
