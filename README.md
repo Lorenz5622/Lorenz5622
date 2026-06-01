@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Destroying Asteroids : https://leetcode.com/problems/destroying-asteroids/
+Minimum Cost of Buying Candies With Discount : https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 <!-- LEETCODE_DAILY_END -->
