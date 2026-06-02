@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Cost of Buying Candies With Discount : https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
+Earliest Finish Time for Land and Water Rides I : https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/
 <!-- LEETCODE_DAILY_END -->
