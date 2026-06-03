@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Earliest Finish Time for Land and Water Rides I : https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/
+Earliest Finish Time for Land and Water Rides II : https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/
 <!-- LEETCODE_DAILY_END -->
