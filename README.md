@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Earliest Finish Time for Land and Water Rides II : https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/
+Total Waviness of Numbers in Range I : https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/
 <!-- LEETCODE_DAILY_END -->
