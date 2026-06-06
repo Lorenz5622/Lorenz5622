@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Total Waviness of Numbers in Range II : https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/
+Left and Right Sum Differences : https://leetcode.com/problems/left-and-right-sum-differences/
 <!-- LEETCODE_DAILY_END -->
