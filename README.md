@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Left and Right Sum Differences : https://leetcode.com/problems/left-and-right-sum-differences/
+Create Binary Tree From Descriptions : https://leetcode.com/problems/create-binary-tree-from-descriptions/
 <!-- LEETCODE_DAILY_END -->
