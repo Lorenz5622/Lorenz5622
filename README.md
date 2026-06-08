@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Create Binary Tree From Descriptions : https://leetcode.com/problems/create-binary-tree-from-descriptions/
+Partition Array According to Given Pivot : https://leetcode.com/problems/partition-array-according-to-given-pivot/
 <!-- LEETCODE_DAILY_END -->
