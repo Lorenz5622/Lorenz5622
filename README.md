@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Partition Array According to Given Pivot : https://leetcode.com/problems/partition-array-according-to-given-pivot/
+Maximum Total Subarray Value I : https://leetcode.com/problems/maximum-total-subarray-value-i/
 <!-- LEETCODE_DAILY_END -->
