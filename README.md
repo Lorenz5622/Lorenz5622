@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Total Subarray Value I : https://leetcode.com/problems/maximum-total-subarray-value-i/
+Maximum Total Subarray Value II : https://leetcode.com/problems/maximum-total-subarray-value-ii/
 <!-- LEETCODE_DAILY_END -->
