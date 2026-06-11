@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Total Subarray Value II : https://leetcode.com/problems/maximum-total-subarray-value-ii/
+Number of Ways to Assign Edge Weights I : https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/
 <!-- LEETCODE_DAILY_END -->
