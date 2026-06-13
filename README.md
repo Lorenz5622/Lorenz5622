@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Ways to Assign Edge Weights II : https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/
+Weighted Word Mapping : https://leetcode.com/problems/weighted-word-mapping/
 <!-- LEETCODE_DAILY_END -->
