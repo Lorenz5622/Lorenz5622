@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Weighted Word Mapping : https://leetcode.com/problems/weighted-word-mapping/
+Maximum Twin Sum of a Linked List : https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
 <!-- LEETCODE_DAILY_END -->
