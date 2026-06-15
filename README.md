@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Twin Sum of a Linked List : https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+Delete the Middle Node of a Linked List : https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
 <!-- LEETCODE_DAILY_END -->
