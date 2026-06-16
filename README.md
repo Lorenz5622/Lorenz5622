@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Delete the Middle Node of a Linked List : https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+Process String with Special Operations I : https://leetcode.com/problems/process-string-with-special-operations-i/
 <!-- LEETCODE_DAILY_END -->
