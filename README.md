@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Angle Between Hands of a Clock : https://leetcode.com/problems/angle-between-hands-of-a-clock/
+Find the Highest Altitude : https://leetcode.com/problems/find-the-highest-altitude/
 <!-- LEETCODE_DAILY_END -->
