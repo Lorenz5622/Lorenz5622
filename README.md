@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Highest Altitude : https://leetcode.com/problems/find-the-highest-altitude/
+Maximum Building Height : https://leetcode.com/problems/maximum-building-height/
 <!-- LEETCODE_DAILY_END -->
