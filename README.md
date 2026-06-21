@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Building Height : https://leetcode.com/problems/maximum-building-height/
+Maximum Ice Cream Bars : https://leetcode.com/problems/maximum-ice-cream-bars/
 <!-- LEETCODE_DAILY_END -->
