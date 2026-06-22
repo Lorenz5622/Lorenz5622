@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Ice Cream Bars : https://leetcode.com/problems/maximum-ice-cream-bars/
+Maximum Number of Balloons : https://leetcode.com/problems/maximum-number-of-balloons/
 <!-- LEETCODE_DAILY_END -->
