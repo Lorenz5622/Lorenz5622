@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Number of Balloons : https://leetcode.com/problems/maximum-number-of-balloons/
+Number of ZigZag Arrays I : https://leetcode.com/problems/number-of-zigzag-arrays-i/
 <!-- LEETCODE_DAILY_END -->
