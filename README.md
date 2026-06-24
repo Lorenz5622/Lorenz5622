@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of ZigZag Arrays I : https://leetcode.com/problems/number-of-zigzag-arrays-i/
+Number of ZigZag Arrays II : https://leetcode.com/problems/number-of-zigzag-arrays-ii/
 <!-- LEETCODE_DAILY_END -->
