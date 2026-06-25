@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of ZigZag Arrays II : https://leetcode.com/problems/number-of-zigzag-arrays-ii/
+Count Subarrays With Majority Element I : https://leetcode.com/problems/count-subarrays-with-majority-element-i/
 <!-- LEETCODE_DAILY_END -->
