@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Subarrays With Majority Element I : https://leetcode.com/problems/count-subarrays-with-majority-element-i/
+Count Subarrays With Majority Element II : https://leetcode.com/problems/count-subarrays-with-majority-element-ii/
 <!-- LEETCODE_DAILY_END -->
