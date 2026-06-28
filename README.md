@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Maximum Number of Elements in Subset : https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/
+Maximum Element After Decreasing and Rearranging : https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
 <!-- LEETCODE_DAILY_END -->
