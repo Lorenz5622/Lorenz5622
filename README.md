@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Strings That Appear as Substrings in Word : https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
+Number of Substrings Containing All Three Characters : https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 <!-- LEETCODE_DAILY_END -->
