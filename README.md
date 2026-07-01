@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Substrings Containing All Three Characters : https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+Find the Safest Path in a Grid : https://leetcode.com/problems/find-the-safest-path-in-a-grid/
 <!-- LEETCODE_DAILY_END -->
