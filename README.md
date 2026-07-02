@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Safest Path in a Grid : https://leetcode.com/problems/find-the-safest-path-in-a-grid/
+Find a Safe Walk Through a Grid : https://leetcode.com/problems/find-a-safe-walk-through-a-grid/
 <!-- LEETCODE_DAILY_END -->
