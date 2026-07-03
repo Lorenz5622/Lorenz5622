@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find a Safe Walk Through a Grid : https://leetcode.com/problems/find-a-safe-walk-through-a-grid/
+Network Recovery Pathways : https://leetcode.com/problems/network-recovery-pathways/
 <!-- LEETCODE_DAILY_END -->
