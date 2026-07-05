@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Score of a Path Between Two Cities : https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/
+Number of Paths with Max Score : https://leetcode.com/problems/number-of-paths-with-max-score/
 <!-- LEETCODE_DAILY_END -->
