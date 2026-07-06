@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Paths with Max Score : https://leetcode.com/problems/number-of-paths-with-max-score/
+Remove Covered Intervals : https://leetcode.com/problems/remove-covered-intervals/
 <!-- LEETCODE_DAILY_END -->
