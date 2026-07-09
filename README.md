@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Concatenate Non-Zero Digits and Multiply by Sum II : https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/
+Path Existence Queries in a Graph I : https://leetcode.com/problems/path-existence-queries-in-a-graph-i/
 <!-- LEETCODE_DAILY_END -->
