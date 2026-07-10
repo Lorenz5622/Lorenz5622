@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Path Existence Queries in a Graph I : https://leetcode.com/problems/path-existence-queries-in-a-graph-i/
+Path Existence Queries in a Graph II : https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/
 <!-- LEETCODE_DAILY_END -->
