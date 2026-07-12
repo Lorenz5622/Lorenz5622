@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count the Number of Complete Components : https://leetcode.com/problems/count-the-number-of-complete-components/
+Rank Transform of an Array : https://leetcode.com/problems/rank-transform-of-an-array/
 <!-- LEETCODE_DAILY_END -->
