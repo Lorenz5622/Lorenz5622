@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Rank Transform of an Array : https://leetcode.com/problems/rank-transform-of-an-array/
+Sequential Digits : https://leetcode.com/problems/sequential-digits/
 <!-- LEETCODE_DAILY_END -->
