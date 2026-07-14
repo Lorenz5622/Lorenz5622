@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Sequential Digits : https://leetcode.com/problems/sequential-digits/
+Find the Number of Subsequences With Equal GCD : https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/
 <!-- LEETCODE_DAILY_END -->
