@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Number of Subsequences With Equal GCD : https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/
+GCD of Odd and Even Sums : https://leetcode.com/problems/gcd-of-odd-and-even-sums/
 <!-- LEETCODE_DAILY_END -->
