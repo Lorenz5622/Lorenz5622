@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-GCD of Odd and Even Sums : https://leetcode.com/problems/gcd-of-odd-and-even-sums/
+Sum of GCD of Formed Pairs : https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/
 <!-- LEETCODE_DAILY_END -->
