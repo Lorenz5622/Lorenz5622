@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Sum of GCD of Formed Pairs : https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/
+Sorted GCD Pair Queries : https://leetcode.com/problems/sorted-gcd-pair-queries/
 <!-- LEETCODE_DAILY_END -->
