@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find Greatest Common Divisor of Array : https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+Smallest Subsequence of Distinct Characters : https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
 <!-- LEETCODE_DAILY_END -->
