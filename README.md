@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Smallest Subsequence of Distinct Characters : https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
+Shift 2D Grid : https://leetcode.com/problems/shift-2d-grid/
 <!-- LEETCODE_DAILY_END -->
