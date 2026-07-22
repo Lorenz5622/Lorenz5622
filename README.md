@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximize Active Section with Trade I : https://leetcode.com/problems/maximize-active-section-with-trade-i/
+Maximize Active Section with Trade II : https://leetcode.com/problems/maximize-active-section-with-trade-ii/
 <!-- LEETCODE_DAILY_END -->
