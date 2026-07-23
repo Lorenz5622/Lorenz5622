@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximize Active Section with Trade II : https://leetcode.com/problems/maximize-active-section-with-trade-ii/
+Number of Unique XOR Triplets I : https://leetcode.com/problems/number-of-unique-xor-triplets-i/
 <!-- LEETCODE_DAILY_END -->
