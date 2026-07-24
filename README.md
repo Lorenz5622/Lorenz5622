@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Unique XOR Triplets I : https://leetcode.com/problems/number-of-unique-xor-triplets-i/
+Number of Unique XOR Triplets II : https://leetcode.com/problems/number-of-unique-xor-triplets-ii/
 <!-- LEETCODE_DAILY_END -->
