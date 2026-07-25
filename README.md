@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Unique XOR Triplets II : https://leetcode.com/problems/number-of-unique-xor-triplets-ii/
+Maximum Product of Two Digits : https://leetcode.com/problems/maximum-product-of-two-digits/
 <!-- LEETCODE_DAILY_END -->
