@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Product of Two Digits : https://leetcode.com/problems/maximum-product-of-two-digits/
+Maximum Product of Three Numbers : https://leetcode.com/problems/maximum-product-of-three-numbers/
 <!-- LEETCODE_DAILY_END -->
