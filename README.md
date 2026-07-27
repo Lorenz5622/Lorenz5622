@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Product of Three Numbers : https://leetcode.com/problems/maximum-product-of-three-numbers/
+Maximum Product of Two Elements in an Array : https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 <!-- LEETCODE_DAILY_END -->
