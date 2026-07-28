@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Product of Two Elements in an Array : https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
+Smallest Palindromic Rearrangement I : https://leetcode.com/problems/smallest-palindromic-rearrangement-i/
 <!-- LEETCODE_DAILY_END -->
