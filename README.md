@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Smallest Palindromic Rearrangement I : https://leetcode.com/problems/smallest-palindromic-rearrangement-i/
+Smallest Palindromic Rearrangement II : https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/
 <!-- LEETCODE_DAILY_END -->
