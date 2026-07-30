@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Smallest Palindromic Rearrangement II : https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/
+Minimum Number of Pushes to Type Word I : https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/
 <!-- LEETCODE_DAILY_END -->
