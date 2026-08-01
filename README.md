@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Number of Pushes to Type Word II : https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/
+Predict the Winner : https://leetcode.com/problems/predict-the-winner/
 <!-- LEETCODE_DAILY_END -->
