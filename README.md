@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Predict the Winner : https://leetcode.com/problems/predict-the-winner/
+Stone Game : https://leetcode.com/problems/stone-game/
 <!-- LEETCODE_DAILY_END -->
