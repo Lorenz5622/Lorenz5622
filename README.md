@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Remove Methods From Project : https://leetcode.com/problems/remove-methods-from-project/
+Smallest Divisible Digit Product I : https://leetcode.com/problems/smallest-divisible-digit-product-i/
 <!-- LEETCODE_DAILY_END -->
