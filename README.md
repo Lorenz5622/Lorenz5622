@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Smallest Divisible Digit Product I : https://leetcode.com/problems/smallest-divisible-digit-product-i/
+Smallest Divisible Digit Product II : https://leetcode.com/problems/smallest-divisible-digit-product-ii/
 <!-- LEETCODE_DAILY_END -->
