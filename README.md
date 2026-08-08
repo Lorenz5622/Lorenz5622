@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Smallest Divisible Digit Product II : https://leetcode.com/problems/smallest-divisible-digit-product-ii/
+Find the Lexicographically Smallest Valid Sequence : https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/
 <!-- LEETCODE_DAILY_END -->
