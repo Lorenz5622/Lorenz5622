@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Lexicographically Smallest Valid Sequence : https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/
+Stone Game II : https://leetcode.com/problems/stone-game-ii/
 <!-- LEETCODE_DAILY_END -->
