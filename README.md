@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Stone Game IV : https://leetcode.com/problems/stone-game-iv/
+Smallest Missing Integer Greater Than Sequential Prefix Sum : https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/
 <!-- LEETCODE_DAILY_END -->
