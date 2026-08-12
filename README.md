@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Smallest Missing Integer Greater Than Sequential Prefix Sum : https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/
+Length of Longest Subarray With at Most K Frequency : https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/
 <!-- LEETCODE_DAILY_END -->
