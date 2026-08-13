@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Length of Longest Subarray With at Most K Frequency : https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/
+Longest Substring of One Repeating Character : https://leetcode.com/problems/longest-substring-of-one-repeating-character/
 <!-- LEETCODE_DAILY_END -->
