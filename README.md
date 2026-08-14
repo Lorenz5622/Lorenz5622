@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Longest Substring of One Repeating Character : https://leetcode.com/problems/longest-substring-of-one-repeating-character/
+Maximum Length Substring With Two Occurrences : https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/
 <!-- LEETCODE_DAILY_END -->
