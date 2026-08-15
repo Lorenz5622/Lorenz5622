@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Length Substring With Two Occurrences : https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/
+Longest Subsequence With Non-Zero Bitwise XOR : https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/
 <!-- LEETCODE_DAILY_END -->
