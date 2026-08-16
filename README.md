@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Longest Subsequence With Non-Zero Bitwise XOR : https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/
+Stone Game IX : https://leetcode.com/problems/stone-game-ix/
 <!-- LEETCODE_DAILY_END -->
