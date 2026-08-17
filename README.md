@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Stone Game IX : https://leetcode.com/problems/stone-game-ix/
+Stone Game V : https://leetcode.com/problems/stone-game-v/
 <!-- LEETCODE_DAILY_END -->
