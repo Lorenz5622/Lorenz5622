@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Largest Almost Missing Integer : https://leetcode.com/problems/find-the-largest-almost-missing-integer/
+Cinema Seat Allocation : https://leetcode.com/problems/cinema-seat-allocation/
 <!-- LEETCODE_DAILY_END -->
