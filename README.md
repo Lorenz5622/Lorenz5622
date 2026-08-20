@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Cinema Seat Allocation : https://leetcode.com/problems/cinema-seat-allocation/
+Distribute Elements Into Two Arrays I : https://leetcode.com/problems/distribute-elements-into-two-arrays-i/
 <!-- LEETCODE_DAILY_END -->
