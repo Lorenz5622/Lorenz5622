@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Distribute Elements Into Two Arrays I : https://leetcode.com/problems/distribute-elements-into-two-arrays-i/
+Kth Smallest Amount With Single Denomination Combination : https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/
 <!-- LEETCODE_DAILY_END -->
