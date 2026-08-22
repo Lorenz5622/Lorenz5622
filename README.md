@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Kth Smallest Amount With Single Denomination Combination : https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/
+Check Divisibility by Digit Sum and Product : https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/
 <!-- LEETCODE_DAILY_END -->
