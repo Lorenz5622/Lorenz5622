@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Check Divisibility by Digit Sum and Product : https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/
+Sum Game : https://leetcode.com/problems/sum-game/
 <!-- LEETCODE_DAILY_END -->
