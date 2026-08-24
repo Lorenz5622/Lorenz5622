@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Sum Game : https://leetcode.com/problems/sum-game/
+Stone Game VIII : https://leetcode.com/problems/stone-game-viii/
 <!-- LEETCODE_DAILY_END -->
