@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Stone Game VIII : https://leetcode.com/problems/stone-game-viii/
+Smallest Missing Multiple of K : https://leetcode.com/problems/smallest-missing-multiple-of-k/
 <!-- LEETCODE_DAILY_END -->
