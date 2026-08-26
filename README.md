@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Smallest Missing Multiple of K : https://leetcode.com/problems/smallest-missing-multiple-of-k/
+Shortest and Lexicographically Smallest Beautiful String : https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/
 <!-- LEETCODE_DAILY_END -->
