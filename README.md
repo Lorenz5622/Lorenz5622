@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Shortest and Lexicographically Smallest Beautiful String : https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/
+Lexicographically Smallest Permutation Greater Than Target : https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/
 <!-- LEETCODE_DAILY_END -->
