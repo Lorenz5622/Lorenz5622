@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Lexicographically Smallest Permutation Greater Than Target : https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/
+Lexicographically Smallest Palindromic Permutation Greater Than Target : https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/
 <!-- LEETCODE_DAILY_END -->
