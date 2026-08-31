@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Removing Minimum and Maximum From Array : https://leetcode.com/problems/removing-minimum-and-maximum-from-array/
+Find the Minimum and Maximum Number of Nodes Between Critical Points : https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/
 <!-- LEETCODE_DAILY_END -->
