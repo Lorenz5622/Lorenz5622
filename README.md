@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Moves to Clean the Classroom : https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/
+Construct Uniform Parity Array I : https://leetcode.com/problems/construct-uniform-parity-array-i/
 <!-- LEETCODE_DAILY_END -->
