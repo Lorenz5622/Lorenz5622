@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Construct Uniform Parity Array I : https://leetcode.com/problems/construct-uniform-parity-array-i/
+Construct Uniform Parity Array II : https://leetcode.com/problems/construct-uniform-parity-array-ii/
 <!-- LEETCODE_DAILY_END -->
