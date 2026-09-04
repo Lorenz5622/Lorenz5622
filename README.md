@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Construct Uniform Parity Array II : https://leetcode.com/problems/construct-uniform-parity-array-ii/
+Smallest Stable Index I : https://leetcode.com/problems/smallest-stable-index-i/
 <!-- LEETCODE_DAILY_END -->
