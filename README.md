@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Smallest Stable Index II : https://leetcode.com/problems/smallest-stable-index-ii/
+Distinct Subsequences : https://leetcode.com/problems/distinct-subsequences/
 <!-- LEETCODE_DAILY_END -->
