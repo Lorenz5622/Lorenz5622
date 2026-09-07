@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Distinct Subsequences : https://leetcode.com/problems/distinct-subsequences/
+Distinct Subsequences II : https://leetcode.com/problems/distinct-subsequences-ii/
 <!-- LEETCODE_DAILY_END -->
