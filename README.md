@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Commas in Range : https://leetcode.com/problems/count-commas-in-range/
+Count Commas in Range II : https://leetcode.com/problems/count-commas-in-range-ii/
 <!-- LEETCODE_DAILY_END -->
