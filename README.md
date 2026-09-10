@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Commas in Range II : https://leetcode.com/problems/count-commas-in-range-ii/
+Count Nodes Equal to Average of Subtree : https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
 <!-- LEETCODE_DAILY_END -->
