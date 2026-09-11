@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Nodes Equal to Average of Subtree : https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
+Unique 3-Digit Even Numbers : https://leetcode.com/problems/unique-3-digit-even-numbers/
 <!-- LEETCODE_DAILY_END -->
