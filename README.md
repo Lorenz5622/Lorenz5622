@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Unique 3-Digit Even Numbers : https://leetcode.com/problems/unique-3-digit-even-numbers/
+Maximum Score of Non-overlapping Intervals : https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/
 <!-- LEETCODE_DAILY_END -->
