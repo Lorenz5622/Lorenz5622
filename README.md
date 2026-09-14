@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Image Overlap : https://leetcode.com/problems/image-overlap/
+Rectangle Overlap : https://leetcode.com/problems/rectangle-overlap/
 <!-- LEETCODE_DAILY_END -->
