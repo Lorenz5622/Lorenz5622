@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Rectangle Overlap : https://leetcode.com/problems/rectangle-overlap/
+Maximum Number of Non-overlapping Palindrome Substrings : https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/
 <!-- LEETCODE_DAILY_END -->
