@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Number of Non-overlapping Palindrome Substrings : https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/
+Number of Sets of K Non-Overlapping Line Segments : https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/
 <!-- LEETCODE_DAILY_END -->
