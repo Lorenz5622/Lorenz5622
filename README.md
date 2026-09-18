@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find Two Non-overlapping Sub-arrays Each With Target Sum : https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
+Maximum Number of Non-Overlapping Substrings : https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/
 <!-- LEETCODE_DAILY_END -->
