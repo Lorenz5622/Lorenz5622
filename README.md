@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Circle and Rectangle Overlapping : https://leetcode.com/problems/circle-and-rectangle-overlapping/
+Reverse Degree of a String : https://leetcode.com/problems/reverse-degree-of-a-string/
 <!-- LEETCODE_DAILY_END -->
