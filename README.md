@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Reverse Degree of a String : https://leetcode.com/problems/reverse-degree-of-a-string/
+Find X Value of Array I : https://leetcode.com/problems/find-x-value-of-array-i/
 <!-- LEETCODE_DAILY_END -->
