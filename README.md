@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find X Value of Array I : https://leetcode.com/problems/find-x-value-of-array-i/
+Find X Value of Array II : https://leetcode.com/problems/find-x-value-of-array-ii/
 <!-- LEETCODE_DAILY_END -->
