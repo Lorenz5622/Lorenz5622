@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find X Value of Array II : https://leetcode.com/problems/find-x-value-of-array-ii/
+Minimum Operations to Reduce X to Zero : https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 <!-- LEETCODE_DAILY_END -->
