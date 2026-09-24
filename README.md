@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Operations to Reduce X to Zero : https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
+Smallest Index With Digit Sum Equal to Index : https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/
 <!-- LEETCODE_DAILY_END -->
