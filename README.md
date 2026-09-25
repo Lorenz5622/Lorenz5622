@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Smallest Index With Digit Sum Equal to Index : https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/
+Brace Expansion II : https://leetcode.com/problems/brace-expansion-ii/
 <!-- LEETCODE_DAILY_END -->
