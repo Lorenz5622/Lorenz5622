@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Evaluate the Bracket Pairs of a String : https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/
+Reverse Substrings Between Each Pair of Parentheses : https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
 <!-- LEETCODE_DAILY_END -->
