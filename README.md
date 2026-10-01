@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Nesting Depth of Two Valid Parentheses Strings : https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/
+Valid Parentheses : https://leetcode.com/problems/valid-parentheses/
 <!-- LEETCODE_DAILY_END -->
