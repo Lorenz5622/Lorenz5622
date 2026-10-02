@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Valid Parentheses : https://leetcode.com/problems/valid-parentheses/
+Generate Parentheses : https://leetcode.com/problems/generate-parentheses/
 <!-- LEETCODE_DAILY_END -->
