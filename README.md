@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Longest Valid Parentheses : https://leetcode.com/problems/longest-valid-parentheses/
+Valid Parenthesis String : https://leetcode.com/problems/valid-parenthesis-string/
 <!-- LEETCODE_DAILY_END -->
