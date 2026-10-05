@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Valid Parenthesis String : https://leetcode.com/problems/valid-parenthesis-string/
+Score of Parentheses : https://leetcode.com/problems/score-of-parentheses/
 <!-- LEETCODE_DAILY_END -->
