@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Score of Parentheses : https://leetcode.com/problems/score-of-parentheses/
+Minimum Add to Make Parentheses Valid : https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 <!-- LEETCODE_DAILY_END -->
