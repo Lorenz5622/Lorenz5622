@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Add to Make Parentheses Valid : https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+Remove Invalid Parentheses : https://leetcode.com/problems/remove-invalid-parentheses/
 <!-- LEETCODE_DAILY_END -->
