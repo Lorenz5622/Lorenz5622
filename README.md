@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Remove Invalid Parentheses : https://leetcode.com/problems/remove-invalid-parentheses/
+Remove Outermost Parentheses : https://leetcode.com/problems/remove-outermost-parentheses/
 <!-- LEETCODE_DAILY_END -->
