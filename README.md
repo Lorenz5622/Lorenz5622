@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Remove Outermost Parentheses : https://leetcode.com/problems/remove-outermost-parentheses/
+Minimum Insertions to Balance a Parentheses String : https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
 <!-- LEETCODE_DAILY_END -->
