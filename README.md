@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Insertions to Balance a Parentheses String : https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+Minimum Sum of Squared Difference : https://leetcode.com/problems/minimum-sum-of-squared-difference/
 <!-- LEETCODE_DAILY_END -->
