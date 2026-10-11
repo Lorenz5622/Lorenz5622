@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Sum of Squared Difference : https://leetcode.com/problems/minimum-sum-of-squared-difference/
+Sum of Squares of Special Elements  : https://leetcode.com/problems/sum-of-squares-of-special-elements/
 <!-- LEETCODE_DAILY_END -->
