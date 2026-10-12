@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Sum of Squares of Special Elements  : https://leetcode.com/problems/sum-of-squares-of-special-elements/
+Apply Operations on Array to Maximize Sum of Squares : https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/
 <!-- LEETCODE_DAILY_END -->
