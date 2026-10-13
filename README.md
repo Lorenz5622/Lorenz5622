@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Apply Operations on Array to Maximize Sum of Squares : https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/
+Maximum Alternating Sum of Squares : https://leetcode.com/problems/maximum-alternating-sum-of-squares/
 <!-- LEETCODE_DAILY_END -->
