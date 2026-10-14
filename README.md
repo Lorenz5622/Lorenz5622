@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Alternating Sum of Squares : https://leetcode.com/problems/maximum-alternating-sum-of-squares/
+Maximize Sum of Squares of Digits : https://leetcode.com/problems/maximize-sum-of-squares-of-digits/
 <!-- LEETCODE_DAILY_END -->
