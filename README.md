@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximize Sum of Squares of Digits : https://leetcode.com/problems/maximize-sum-of-squares-of-digits/
+Subarrays Distinct Element Sum of Squares I : https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/
 <!-- LEETCODE_DAILY_END -->
