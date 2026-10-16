@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Subarrays Distinct Element Sum of Squares I : https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/
+Subarrays Distinct Element Sum of Squares II : https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/
 <!-- LEETCODE_DAILY_END -->
