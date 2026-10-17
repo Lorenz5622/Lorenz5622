@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Subarrays Distinct Element Sum of Squares II : https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/
+Minimum Swaps to Sort by Digit Sum : https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/
 <!-- LEETCODE_DAILY_END -->
