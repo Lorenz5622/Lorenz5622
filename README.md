@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Swaps to Sort by Digit Sum : https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/
+Number of Ways to Reorder Array to Get Same BST : https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
 <!-- LEETCODE_DAILY_END -->
