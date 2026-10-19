@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Ways to Reorder Array to Get Same BST : https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
+Find Target Indices After Sorting Array : https://leetcode.com/problems/find-target-indices-after-sorting-array/
 <!-- LEETCODE_DAILY_END -->
