@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find Target Indices After Sorting Array : https://leetcode.com/problems/find-target-indices-after-sorting-array/
+Sum of Sortable Integers : https://leetcode.com/problems/sum-of-sortable-integers/
 <!-- LEETCODE_DAILY_END -->
