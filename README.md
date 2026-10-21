@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Sum of Sortable Integers : https://leetcode.com/problems/sum-of-sortable-integers/
+Minimum Operations to Sort a String : https://leetcode.com/problems/minimum-operations-to-sort-a-string/
 <!-- LEETCODE_DAILY_END -->
