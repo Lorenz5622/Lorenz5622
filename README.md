@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Operations to Sort a Permutation : https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/
+Maximum K to Sort a Permutation : https://leetcode.com/problems/maximum-k-to-sort-a-permutation/
 <!-- LEETCODE_DAILY_END -->
