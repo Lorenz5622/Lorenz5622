@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum K to Sort a Permutation : https://leetcode.com/problems/maximum-k-to-sort-a-permutation/
+Count Days Spent Together : https://leetcode.com/problems/count-days-spent-together/
 <!-- LEETCODE_DAILY_END -->
