@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Days Spent Together : https://leetcode.com/problems/count-days-spent-together/
+Number of Closed Islands : https://leetcode.com/problems/number-of-closed-islands/
 <!-- LEETCODE_DAILY_END -->
