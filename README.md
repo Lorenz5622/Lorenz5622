@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Closed Islands : https://leetcode.com/problems/number-of-closed-islands/
+Count Islands With Total Value Divisible by K : https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/
 <!-- LEETCODE_DAILY_END -->
