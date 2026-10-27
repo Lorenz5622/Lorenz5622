@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Islands With Total Value Divisible by K : https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/
+Create Grid With Exactly One Path : https://leetcode.com/problems/create-grid-with-exactly-one-path/
 <!-- LEETCODE_DAILY_END -->
