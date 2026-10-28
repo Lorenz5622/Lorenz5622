@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Create Grid With Exactly One Path : https://leetcode.com/problems/create-grid-with-exactly-one-path/
+Minimum XOR Path in a Grid : https://leetcode.com/problems/minimum-xor-path-in-a-grid/
 <!-- LEETCODE_DAILY_END -->
