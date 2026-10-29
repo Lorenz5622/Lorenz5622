@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum XOR Path in a Grid : https://leetcode.com/problems/minimum-xor-path-in-a-grid/
+Palindromic Path Queries in a Tree : https://leetcode.com/problems/palindromic-path-queries-in-a-tree/
 <!-- LEETCODE_DAILY_END -->
