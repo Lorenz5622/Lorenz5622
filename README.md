@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Palindromic Path Queries in a Tree : https://leetcode.com/problems/palindromic-path-queries-in-a-tree/
+Shortest Path With At Most K Consecutive Identical Characters : https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/
 <!-- LEETCODE_DAILY_END -->
