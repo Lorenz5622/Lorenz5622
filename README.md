@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Shortest Path With At Most K Consecutive Identical Characters : https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/
+Twisted Mirror Path Count : https://leetcode.com/problems/twisted-mirror-path-count/
 <!-- LEETCODE_DAILY_END -->
