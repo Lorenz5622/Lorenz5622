@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Twisted Mirror Path Count : https://leetcode.com/problems/twisted-mirror-path-count/
+Minimum Moves to Equal Array Elements : https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 <!-- LEETCODE_DAILY_END -->
