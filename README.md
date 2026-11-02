@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Moves to Equal Array Elements : https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
+Minimum Moves to Equal Array Elements II : https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
 <!-- LEETCODE_DAILY_END -->
