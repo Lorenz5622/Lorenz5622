@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Operations to Make Elements Within K Subarrays Equal : https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/
+Find the Distance Value Between Two Arrays : https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 <!-- LEETCODE_DAILY_END -->
