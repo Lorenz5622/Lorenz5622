@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find the Distance Value Between Two Arrays : https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
+Count Zero Request Servers : https://leetcode.com/problems/count-zero-request-servers/
 <!-- LEETCODE_DAILY_END -->
