@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Process Tasks Using Servers : https://leetcode.com/problems/process-tasks-using-servers/
+Count Servers that Communicate : https://leetcode.com/problems/count-servers-that-communicate/
 <!-- LEETCODE_DAILY_END -->
