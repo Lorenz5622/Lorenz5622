@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Count Servers that Communicate : https://leetcode.com/problems/count-servers-that-communicate/
+Find Servers That Handled Most Number of Requests : https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/
 <!-- LEETCODE_DAILY_END -->
