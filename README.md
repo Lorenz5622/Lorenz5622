@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Climbing Stairs II : https://leetcode.com/problems/climbing-stairs-ii/
+Minimum Cost to Acquire Required Items : https://leetcode.com/problems/minimum-cost-to-acquire-required-items/
 <!-- LEETCODE_DAILY_END -->
