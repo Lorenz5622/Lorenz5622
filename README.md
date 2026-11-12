@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Cost to Acquire Required Items : https://leetcode.com/problems/minimum-cost-to-acquire-required-items/
+Longest Strictly Increasing or Strictly Decreasing Subarray : https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/
 <!-- LEETCODE_DAILY_END -->
