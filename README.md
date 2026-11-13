@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Longest Strictly Increasing or Strictly Decreasing Subarray : https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/
+Count Non-Decreasing Subarrays After K Operations : https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/
 <!-- LEETCODE_DAILY_END -->
