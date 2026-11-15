@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Positive Sum Subarray  : https://leetcode.com/problems/minimum-positive-sum-subarray/
+Number of Sub-arrays With Odd Sum : https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
 <!-- LEETCODE_DAILY_END -->
