@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Number of Sub-arrays With Odd Sum : https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
+Calculate Digit Sum of a String : https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 <!-- LEETCODE_DAILY_END -->
