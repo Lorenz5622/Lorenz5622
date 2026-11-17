@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Calculate Digit Sum of a String : https://leetcode.com/problems/calculate-digit-sum-of-a-string/
+Minimum Changes to Make K Semi-palindromes : https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/
 <!-- LEETCODE_DAILY_END -->
