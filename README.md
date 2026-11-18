@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Changes to Make K Semi-palindromes : https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/
+Minimum Number of Changes to Make Binary String Beautiful : https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/
 <!-- LEETCODE_DAILY_END -->
