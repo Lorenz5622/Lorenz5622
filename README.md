@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Number of Changes to Make Binary String Beautiful : https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/
+Minimum Score by Changing Two Elements : https://leetcode.com/problems/minimum-score-by-changing-two-elements/
 <!-- LEETCODE_DAILY_END -->
