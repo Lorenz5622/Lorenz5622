@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Minimum Score by Changing Two Elements : https://leetcode.com/problems/minimum-score-by-changing-two-elements/
+Maximize Consecutive Elements in an Array After Modification : https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/
 <!-- LEETCODE_DAILY_END -->
