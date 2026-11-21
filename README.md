@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximize Consecutive Elements in an Array After Modification : https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/
+Find Subtree Sizes After Changes : https://leetcode.com/problems/find-subtree-sizes-after-changes/
 <!-- LEETCODE_DAILY_END -->
