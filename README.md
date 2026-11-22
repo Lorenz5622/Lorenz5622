@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Find Subtree Sizes After Changes : https://leetcode.com/problems/find-subtree-sizes-after-changes/
+Check if All A's Appears Before All B's : https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
 <!-- LEETCODE_DAILY_END -->
