@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Check if All A's Appears Before All B's : https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
+Product of the Last K Numbers : https://leetcode.com/problems/product-of-the-last-k-numbers/
 <!-- LEETCODE_DAILY_END -->
