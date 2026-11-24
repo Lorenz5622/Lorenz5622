@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Product of the Last K Numbers : https://leetcode.com/problems/product-of-the-last-k-numbers/
+Maximum Subarray With Equal Products : https://leetcode.com/problems/maximum-subarray-with-equal-products/
 <!-- LEETCODE_DAILY_END -->
