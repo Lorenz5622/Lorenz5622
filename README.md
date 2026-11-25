@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Subarray With Equal Products : https://leetcode.com/problems/maximum-subarray-with-equal-products/
+Smallest Unique Subarray : https://leetcode.com/problems/smallest-unique-subarray/
 <!-- LEETCODE_DAILY_END -->
