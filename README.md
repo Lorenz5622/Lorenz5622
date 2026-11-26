@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Smallest Unique Subarray : https://leetcode.com/problems/smallest-unique-subarray/
+Stone Removal Game : https://leetcode.com/problems/stone-removal-game/
 <!-- LEETCODE_DAILY_END -->
