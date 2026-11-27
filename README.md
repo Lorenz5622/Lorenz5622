@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Stone Removal Game : https://leetcode.com/problems/stone-removal-game/
+Maximum Number of Items From Sale I : https://leetcode.com/problems/maximum-number-of-items-from-sale-i/
 <!-- LEETCODE_DAILY_END -->
