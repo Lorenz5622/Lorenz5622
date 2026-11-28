@@ -30,5 +30,5 @@
 
 <!-- LEETCODE_DAILY_START -->
 📖 **Today's Question:**  
-Maximum Number of Items From Sale I : https://leetcode.com/problems/maximum-number-of-items-from-sale-i/
+Maximum Number of Items From Sale II : https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/
 <!-- LEETCODE_DAILY_END -->
